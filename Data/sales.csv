@@ -1,0 +1,433 @@
+product_id,product_family,plant,region,build_month,units_sold
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-01,304
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-02,380
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-03,321
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-04,291
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-05,303
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-06,328
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-07,327
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-08,296
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-09,285
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-10,328
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-11,348
+UPS-1K,UPS 1kVA,Plant-Pune,North,2025-12,321
+UPS-1K,UPS 1kVA,Plant-Pune,North,2026-01,323
+UPS-1K,UPS 1kVA,Plant-Pune,North,2026-02,312
+UPS-1K,UPS 1kVA,Plant-Pune,North,2026-03,324
+UPS-1K,UPS 1kVA,Plant-Pune,North,2026-04,335
+UPS-1K,UPS 1kVA,Plant-Pune,North,2026-05,330
+UPS-1K,UPS 1kVA,Plant-Pune,North,2026-06,339
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-01,283
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-02,273
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-03,269
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-04,299
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-05,301
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-06,280
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-07,304
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-08,260
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-09,275
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-10,255
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-11,264
+UPS-1K,UPS 1kVA,Plant-Pune,South,2025-12,289
+UPS-1K,UPS 1kVA,Plant-Pune,South,2026-01,253
+UPS-1K,UPS 1kVA,Plant-Pune,South,2026-02,283
+UPS-1K,UPS 1kVA,Plant-Pune,South,2026-03,270
+UPS-1K,UPS 1kVA,Plant-Pune,South,2026-04,285
+UPS-1K,UPS 1kVA,Plant-Pune,South,2026-05,320
+UPS-1K,UPS 1kVA,Plant-Pune,South,2026-06,288
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-01,168
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-02,162
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-03,197
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-04,186
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-05,203
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-06,185
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-07,192
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-08,220
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-09,196
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-10,171
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-11,201
+UPS-1K,UPS 1kVA,Plant-Pune,East,2025-12,176
+UPS-1K,UPS 1kVA,Plant-Pune,East,2026-01,173
+UPS-1K,UPS 1kVA,Plant-Pune,East,2026-02,180
+UPS-1K,UPS 1kVA,Plant-Pune,East,2026-03,215
+UPS-1K,UPS 1kVA,Plant-Pune,East,2026-04,143
+UPS-1K,UPS 1kVA,Plant-Pune,East,2026-05,196
+UPS-1K,UPS 1kVA,Plant-Pune,East,2026-06,168
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-01,348
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-02,359
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-03,374
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-04,341
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-05,335
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-06,358
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-07,359
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-08,317
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-09,344
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-10,347
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-11,367
+UPS-1K,UPS 1kVA,Plant-Pune,West,2025-12,360
+UPS-1K,UPS 1kVA,Plant-Pune,West,2026-01,333
+UPS-1K,UPS 1kVA,Plant-Pune,West,2026-02,360
+UPS-1K,UPS 1kVA,Plant-Pune,West,2026-03,361
+UPS-1K,UPS 1kVA,Plant-Pune,West,2026-04,373
+UPS-1K,UPS 1kVA,Plant-Pune,West,2026-05,324
+UPS-1K,UPS 1kVA,Plant-Pune,West,2026-06,324
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-01,319
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-02,342
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-03,322
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-04,299
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-05,325
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-06,321
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-07,339
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-08,325
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-09,297
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-10,334
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-11,317
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2025-12,287
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2026-01,321
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2026-02,293
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2026-03,301
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2026-04,298
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2026-05,327
+UPS-1K,UPS 1kVA,Plant-Chennai,North,2026-06,350
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-01,292
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-02,301
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-03,275
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-04,285
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-05,273
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-06,320
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-07,291
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-08,299
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-09,289
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-10,275
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-11,279
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2025-12,295
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2026-01,335
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2026-02,285
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2026-03,301
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2026-04,292
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2026-05,272
+UPS-1K,UPS 1kVA,Plant-Chennai,South,2026-06,320
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-01,186
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-02,192
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-03,215
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-04,196
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-05,188
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-06,199
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-07,203
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-08,163
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-09,190
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-10,208
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-11,187
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2025-12,178
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2026-01,211
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2026-02,200
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2026-03,193
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2026-04,206
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2026-05,177
+UPS-1K,UPS 1kVA,Plant-Chennai,East,2026-06,180
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-01,363
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-02,357
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-03,359
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-04,371
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-05,378
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-06,343
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-07,365
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-08,351
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-09,378
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-10,365
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-11,350
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2025-12,383
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2026-01,339
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2026-02,365
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2026-03,366
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2026-04,374
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2026-05,348
+UPS-1K,UPS 1kVA,Plant-Chennai,West,2026-06,379
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-01,61
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-02,57
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-03,61
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-04,56
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-05,59
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-06,65
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-07,64
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-08,59
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-09,61
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-10,58
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-11,54
+UPS-10K,UPS 10kVA,Plant-Pune,North,2025-12,65
+UPS-10K,UPS 10kVA,Plant-Pune,North,2026-01,60
+UPS-10K,UPS 10kVA,Plant-Pune,North,2026-02,64
+UPS-10K,UPS 10kVA,Plant-Pune,North,2026-03,56
+UPS-10K,UPS 10kVA,Plant-Pune,North,2026-04,54
+UPS-10K,UPS 10kVA,Plant-Pune,North,2026-05,59
+UPS-10K,UPS 10kVA,Plant-Pune,North,2026-06,52
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-01,51
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-02,50
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-03,52
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-04,51
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-05,49
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-06,56
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-07,50
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-08,60
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-09,55
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-10,55
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-11,56
+UPS-10K,UPS 10kVA,Plant-Pune,South,2025-12,47
+UPS-10K,UPS 10kVA,Plant-Pune,South,2026-01,46
+UPS-10K,UPS 10kVA,Plant-Pune,South,2026-02,55
+UPS-10K,UPS 10kVA,Plant-Pune,South,2026-03,53
+UPS-10K,UPS 10kVA,Plant-Pune,South,2026-04,50
+UPS-10K,UPS 10kVA,Plant-Pune,South,2026-05,56
+UPS-10K,UPS 10kVA,Plant-Pune,South,2026-06,58
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-01,35
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-02,37
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-03,33
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-04,35
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-05,30
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-06,37
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-07,30
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-08,33
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-09,28
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-10,31
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-11,34
+UPS-10K,UPS 10kVA,Plant-Pune,East,2025-12,32
+UPS-10K,UPS 10kVA,Plant-Pune,East,2026-01,32
+UPS-10K,UPS 10kVA,Plant-Pune,East,2026-02,38
+UPS-10K,UPS 10kVA,Plant-Pune,East,2026-03,38
+UPS-10K,UPS 10kVA,Plant-Pune,East,2026-04,30
+UPS-10K,UPS 10kVA,Plant-Pune,East,2026-05,36
+UPS-10K,UPS 10kVA,Plant-Pune,East,2026-06,39
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-01,64
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-02,68
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-03,69
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-04,59
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-05,58
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-06,67
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-07,70
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-08,64
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-09,65
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-10,68
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-11,66
+UPS-10K,UPS 10kVA,Plant-Pune,West,2025-12,68
+UPS-10K,UPS 10kVA,Plant-Pune,West,2026-01,59
+UPS-10K,UPS 10kVA,Plant-Pune,West,2026-02,65
+UPS-10K,UPS 10kVA,Plant-Pune,West,2026-03,64
+UPS-10K,UPS 10kVA,Plant-Pune,West,2026-04,71
+UPS-10K,UPS 10kVA,Plant-Pune,West,2026-05,61
+UPS-10K,UPS 10kVA,Plant-Pune,West,2026-06,63
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-01,61
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-02,58
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-03,57
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-04,58
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-05,67
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-06,54
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-07,62
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-08,60
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-09,55
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-10,56
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-11,66
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2025-12,68
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2026-01,57
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2026-02,58
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2026-03,58
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2026-04,59
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2026-05,55
+UPS-10K,UPS 10kVA,Plant-Chennai,North,2026-06,57
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-01,57
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-02,49
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-03,53
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-04,49
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-05,55
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-06,57
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-07,60
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-08,55
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-09,47
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-10,52
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-11,49
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2025-12,45
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2026-01,53
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2026-02,63
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2026-03,55
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2026-04,52
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2026-05,54
+UPS-10K,UPS 10kVA,Plant-Chennai,South,2026-06,55
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-01,39
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-02,39
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-03,32
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-04,33
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-05,35
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-06,33
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-07,40
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-08,40
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-09,34
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-10,38
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-11,41
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2025-12,38
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2026-01,38
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2026-02,33
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2026-03,39
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2026-04,36
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2026-05,31
+UPS-10K,UPS 10kVA,Plant-Chennai,East,2026-06,32
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-01,66
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-02,61
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-03,65
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-04,67
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-05,67
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-06,63
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-07,60
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-08,59
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-09,63
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-10,69
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-11,57
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2025-12,59
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2026-01,68
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2026-02,70
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2026-03,64
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2026-04,75
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2026-05,70
+UPS-10K,UPS 10kVA,Plant-Chennai,West,2026-06,65
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-01,28
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-02,24
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-03,28
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-04,25
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-05,31
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-06,27
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-07,28
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-08,27
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-09,26
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-10,27
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-11,29
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2025-12,28
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2026-01,30
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2026-02,29
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2026-03,30
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2026-04,30
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2026-05,29
+SWG-LV,LV Switchgear Panel,Plant-Chennai,North,2026-06,28
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-01,27
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-02,24
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-03,28
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-04,25
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-05,27
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-06,25
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-07,24
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-08,23
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-09,25
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-10,25
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-11,24
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2025-12,24
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2026-01,25
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2026-02,26
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2026-03,24
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2026-04,24
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2026-05,25
+SWG-LV,LV Switchgear Panel,Plant-Chennai,South,2026-06,22
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-01,17
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-02,19
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-03,16
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-04,18
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-05,16
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-06,18
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-07,17
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-08,14
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-09,14
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-10,16
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-11,15
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2025-12,15
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2026-01,15
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2026-02,15
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2026-03,17
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2026-04,15
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2026-05,15
+SWG-LV,LV Switchgear Panel,Plant-Chennai,East,2026-06,14
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-01,31
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-02,30
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-03,31
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-04,32
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-05,31
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-06,33
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-07,30
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-08,31
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-09,26
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-10,29
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-11,31
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2025-12,30
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2026-01,30
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2026-02,30
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2026-03,31
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2026-04,32
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2026-05,27
+SWG-LV,LV Switchgear Panel,Plant-Chennai,West,2026-06,28
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-01,288
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-02,243
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-03,237
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-04,239
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-05,262
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-06,245
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-07,228
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-08,230
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-09,245
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-10,270
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-11,270
+SPD-40,Surge Protection Device,Plant-Pune,North,2025-12,225
+SPD-40,Surge Protection Device,Plant-Pune,North,2026-01,233
+SPD-40,Surge Protection Device,Plant-Pune,North,2026-02,234
+SPD-40,Surge Protection Device,Plant-Pune,North,2026-03,257
+SPD-40,Surge Protection Device,Plant-Pune,North,2026-04,264
+SPD-40,Surge Protection Device,Plant-Pune,North,2026-05,253
+SPD-40,Surge Protection Device,Plant-Pune,North,2026-06,220
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-01,192
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-02,229
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-03,233
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-04,227
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-05,191
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-06,218
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-07,219
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-08,216
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-09,225
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-10,210
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-11,210
+SPD-40,Surge Protection Device,Plant-Pune,South,2025-12,201
+SPD-40,Surge Protection Device,Plant-Pune,South,2026-01,231
+SPD-40,Surge Protection Device,Plant-Pune,South,2026-02,212
+SPD-40,Surge Protection Device,Plant-Pune,South,2026-03,210
+SPD-40,Surge Protection Device,Plant-Pune,South,2026-04,183
+SPD-40,Surge Protection Device,Plant-Pune,South,2026-05,214
+SPD-40,Surge Protection Device,Plant-Pune,South,2026-06,232
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-01,151
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-02,142
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-03,120
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-04,173
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-05,139
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-06,141
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-07,163
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-08,123
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-09,141
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-10,168
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-11,133
+SPD-40,Surge Protection Device,Plant-Pune,East,2025-12,155
+SPD-40,Surge Protection Device,Plant-Pune,East,2026-01,140
+SPD-40,Surge Protection Device,Plant-Pune,East,2026-02,154
+SPD-40,Surge Protection Device,Plant-Pune,East,2026-03,154
+SPD-40,Surge Protection Device,Plant-Pune,East,2026-04,145
+SPD-40,Surge Protection Device,Plant-Pune,East,2026-05,154
+SPD-40,Surge Protection Device,Plant-Pune,East,2026-06,138
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-01,248
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-02,259
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-03,278
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-04,257
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-05,254
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-06,270
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-07,242
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-08,245
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-09,272
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-10,270
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-11,257
+SPD-40,Surge Protection Device,Plant-Pune,West,2025-12,278
+SPD-40,Surge Protection Device,Plant-Pune,West,2026-01,261
+SPD-40,Surge Protection Device,Plant-Pune,West,2026-02,282
+SPD-40,Surge Protection Device,Plant-Pune,West,2026-03,232
+SPD-40,Surge Protection Device,Plant-Pune,West,2026-04,240
+SPD-40,Surge Protection Device,Plant-Pune,West,2026-05,257
+SPD-40,Surge Protection Device,Plant-Pune,West,2026-06,271

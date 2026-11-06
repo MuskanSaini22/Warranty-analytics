@@ -1,0 +1,826 @@
+claim_id,claim_date,product_name,serial_no,build_month,plant,region,failure_description,part_replaced,claim_cost_inr
+WC100240,2026-02-19,UPS 1KVA,UPS1K-2512-39752,2025-12,Plant-Pune,West,unit not working,Display unit,1482.0
+WC100064,2026-08-26,UPS 1kVA,UPS1K-2604-81263,2026-04,Plant-Pune,NORTH,bulged cap found,DC bus capacitor,3280.0
+WC100273,2025-06-04,UPS 1kVA,UPS1K-2503-48958,2025-03,Plant-Chennai,North,cooling fan failed,,9077.0
+WC100454,2025-07-16,UPS 1kVA,UPS1K-2501-09600,2025-01,Plant-Chennai,West India,"output unstable, inverter pcb replaced",Inverter PCB,4587.0
+WC100099,2025-09-10,ups 1 kva,UPS1K-2505-14003,2025-05,Plant-Pune,SOUTH ,customer complaint - fault,Charger module,3098.0
+WC100553,2026-04-15,ups 10kva,UPS10K-2508-29658,2025-08,Plant-Pune,North,batt not charging after 2 months,,29273.0
+WC100253,2026-10-21,UPS-1KVA,UPS1K-2602-32839,2026-02,Plant-Pune,W,batt not charging after 2 months,Charger module,3335.0
+WC100219,2026-05-17,UPS 1kVA,UPS1K-2506-90327,2025-06,Plant-Pune,west,inverter board fault,,3738.0
+WC100139,2026-10-20,UPS 1KVA,UPS1K-2602-90344,2026-02,Plant-Pune,South India,fan noise and stopped,Cooling fan,2524.0
+WC100014,2025-08-10,UPS-1KVA,UPS1K-2504-26720,2025-04,Plant-Pune,north,batery not charging,Charger module,5951.0
+WC100383,2026-04-01,ups 1 kva,UPS1K-2601-04400,2026-01,Plant-Chennai,south,capacitor leaking,DC bus capacitor,2217.0
+WC100767,2026-10-12,SPD 40kA,SPD40-2603-25681,2026-03,Plant-Pune,south,status indicator fault,Indicator,1619.0
+WC100663,2025-12-20,UPS-10KVA,UPS10K-2509-64986,2025-09,Plant-Chennai,E,bulged cap found,DC bus capacitor,45534.0
+WC100728,2025-04-15,SPD-40,SPD40-2502-47013,2025-02,Plant-Pune,North India,SPD module failed,SPD module,1674.0
+WC100327,2025-03-27,UPS 1kVA,UPS1K-2502-02998,2025-02,Plant-Chennai,south,display blank,Display unit,2665.0
+WC100410,2026-08-27,UPS 1KVA,UPS1K-2606-12320,2026-06,Plant-Chennai,south,battery charger fault,Charger module,2182.0
+WC100054,2026-04-05,UPS 1kVA,UPS1K-2603-16317,2026-03,Plant-Pune,NORTH,failed,Display unit,2342.0
+WC100109,2025-10-18,UPS 1KVA,UPS1K-2507-31924,2025-07,Plant-Pune,S,no output,,2860.0
+WC100264,2026-10-19,ups 1 kva,UPS1K-2606-64183,2026-06,Plant-Pune,west,batt not charging after 2 months,Charger module,2222.0
+WC100529,2026-08-22,UPS 1KVA,UPS1K-2602-38807,2026-02,Plant-Chennai,west,FAN FAILURE,,4513.0
+WC100636,2025-09-01,UPS-10KVA,UPS10K-2508-52729,2025-08,Plant-Chennai,SOUTH ,no output - capacitor failed,DC bus capacitor,56000.0
+WC100035,2025-12-06,UPS-1KVA,UPS1K-2510-18753,,Plant-Pune,NORTH,display blank,,3844.0
+WC100674,2025-05-22,UPS 10 KVA,UPS10K-2503-69995,2025-03,Plant-Chennai,West India,inverter card burnt,Inverter PCB,19881.0
+WC100328,2025-04-04,UPS 1KVA,UPS1K-2502-80687,2025-02,Plant-Chennai,South India,battery charger fault,Charger module,2211.0
+WC100368,2026-04-08,UPS-1KVA,UPS1K-2509-63800,2025-09,Plant-Chennai,SOUTH ,unit not working,Inverter PCB,2478.0
+WC100661,2026-01-17,UPS-10KVA,UPS10K-2507-16269,2025-07,Plant-Chennai,East,display error code,,16599.0
+WC100531,2026-05-26,ups 1 kva,UPS1K-2604-64169,2026-04,Plant-Chennai,west,capacitor leaking,,10503.0
+WC100187,2026-07-20,UPS 1KVA,UPS1K-2603-26921,2026-03,Plant-Pune,EAST,batery not charging,Charger module,1951.0
+WC100062,2026-06-22,ups 1 kva,UPS1K-2604-50256,2026-04,Plant-Pune,N,batt not charging after 2 months,Charger module,2155.0
+WC100726,2025-05-23,surge protector,SPD40-2501-61729,2025-01,Plant-Pune,North,spd status red,,1663.0
+WC100789,2026-02-06,surge protector,SPD40-2507-91256,2025-07,,west,spd status red,SPD module,2095.0
+WC100515,2026-03-03,UPS 1KVA,UPS1K-2512-07371,2025-12,Plant-Chennai,West India,FAN FAILURE,,3212.0
+WC100458,2025-08-25,ups 1 kva,UPS1K-2502-51121,2025-02,Plant-Chennai,W,fan noise and stopped,Cooling fan,2144.0
+WC100143,2026-05-01,UPS 1kVA,UPS1K-2604-26895,2026-04,Plant-Pune,SOUTH ,batery not charging,Charger module,1430.0
+WC100644,2026-05-15,ups 10kva,UPS10K-2509-14994,2025-09,Plant-Chennai,S,no o/p from ups,,49174.0
+WC100319,2026-10-07,UPS 1kVA,UPS1K-2606-46072,2026-06,Plant-Chennai,North India,unit not working,Display unit,3870.0
+WC100274,2025-12-20,UPS 1KVA,UPS1K-2503-87439,2025-03,Plant-Chennai,NORTH,fan not running,Cooling fan,2361.0
+WC100641,2026-05-05,ups 10kva,UPS10K-2508-13843,2025-08,Plant-Chennai,S,bulged cap found,,40758.0
+WC100473,2025-11-08,UPS 1kVA,UPS1K-2505-90692,2025-05,Plant-Chennai,WEST,battery charger fault,Charger module,5731.0
+WC100481,2026-02-11,ups 1 kva,UPS1K-2507-75763,2025-07,Plant-Chennai,W,inverter card burnt,Inverter PCB,2809.0
+WC100229,2026-02-09,ups 1 kva,UPS1K-2507-71233,2025-07,Plant-Pune,WEST,inverter fault E12,Inverter PCB,6386.0
+WC100603,2026-02-25,UPS 10 KVA,UPS10K-2502-64600,2025-02,Plant-Chennai,North,"capacitr leaking, unit tripped",DC bus capacitor,62248.0
+WC100393,2026-07-02,UPS 1kVA,UPS1K-2603-40062,2026-03,Plant-Chennai,South India,batt not charging after 2 months,Charger module,2906.0
+WC100418,2025-02-09,UPS-1KVA,UPS1K-2503-74211,2025-03,Plant-Chennai,E,fan noise and stopped,Cooling fan,1396.0
+WC100388,2026-04-21,UPS 1kVA,UPS1K-2603-82316,2026-03,Plant-Chennai,S,inverter fault E12,Inverter PCB,2645.0
+WC100126,2026-04-19,UPS-1KVA,UPS1K-2510-07353,2025-10,Plant-Pune,SOUTH ,no output,,3904.0
+WC100353,2025-08-04,UPS-1KVA,UPS1K-2507-91172,2025-07,Plant-Chennai,SOUTH ,inverter fault E12,Inverter PCB,2218.0
+WC100095,2025-06-22,UPS-1KVA,UPS1K-2505-17873,2025-05,Plant-Pune,South India,display error code,Display unit,3161.0
+WC100748,2026-10-15,SPD-40,SPD40-2604-48324,2026-04,Plant-Pune,N,spd status red,,2250.0
+WC100210,04/10/2025,UPS 1kVA,UPS1K-2504-07783,2025-04,Plant-Pune,west,not working,Cooling fan,4187.0
+WC100468,2025-06-15,UPS 1kVA,UPS1K-2505-85494,2025-05,Plant-Chennai,W,batery not charging,Charger module,1575.0
+WC100189,2026-08-15,UPS-1KVA,UPS1K-2604-59995,2026-04,Plant-Pune,EAST,capacitor leaking,DC bus capacitor,2267.0
+WC100301,2026-04-22,UPS 1kVA,UPS1K-2512-02593,2025-12,Plant-Chennai,north,"output unstable, inverter pcb replaced",,6241.0
+WC100608,2025-08-16,ups 10kva,UPS10K-2507-32091,2025-07,Plant-Chennai,North India,fan not running,Cooling fan,36955.0
+WC100563,2026-08-08,UPS-10KVA,UPS10K-2604-73164,2026-04,Plant-Pune,north,unit dead,,20043.0
+WC100479,2025-12-11,UPS 1kVA,UPS1K-2507-80273,2025-07,Plant-Chennai,W,unit not working,,3102.0
+WC100290,2025-09-26,UPS-1KVA,UPS1K-2508-43824,,Plant-Chennai,north,batery not charging,,3737.0
+WC100483,2026-06-20,UPS 1kVA,UPS1K-2507-68063,2025-07,Plant-Chennai,W,bulged cap found,,5539.0
+WC100460,2025-06-15,UPS 1KVA,UPS1K-2503-55585,2025-03,Plant-Chennai,west,battery not charging,Charger module,4177.0
+WC100617,2026-02-21,UPS-10KVA,UPS10K-2509-57018,2025-09,Plant-Chennai,N,cap failure on dc bus,DC bus capacitor,41858.0
+WC100569,2025-10-27,UPS 10 KVA,UPS10K-2505-46382,2025-05,Plant-Pune,South,failed,,37191.0
+WC100747,2026-05-11,SPD 40kA,SPD40-2604-43299,2026-04,,North India,surge module blown,SPD module,1526.0
+WC100624,2026-05-26,UPS-10KVA,UPS10K-2603-84433,2026-03,Plant-Chennai,NORTH,"output unstable, inverter pcb replaced",Inverter PCB,17648.0
+WC100400,2026-07-17,UPS 1KVA,UPS1K-2604-16432,2026-04,Plant-Chennai,South India,battery charger fault,,3066.0
+WC100419,2025-06-19,UPS 1kVA,UPS1K-2503-49263,2025-03,Plant-Chennai,East,unit dead,,3613.0
+WC100271,2025-06-10,UPS 1kVA,UPS1K-2502-20959,2025-02,Plant-Chennai,NORTH,display blank,Display unit,2450.0
+WC100784,2025-04-17,SPD 40kA,SPD40-2503-00646,2025-03,Plant-Pune,West India,indicator window red,Indicator,1370.0
+WC100397,2026-05-27,ups 1 kva,UPS1K-2604-17897,2026-04,Plant-Chennai,South,inverter card burnt,Inverter PCB,4681.0
+WC100516,2026-04-18,UPS 1kVA,UPS1K-2512-37904,2025-12,Plant-Chennai,West India,FAN FAILURE,Cooling fan,6137.0
+WC100390,2026-05-23,ups 1 kva,UPS1K-2603-85473,2026-03,Plant-Chennai,south,battery not charging,Charger module,4587.0
+WC100466,24/09/2025,UPS 1kVA,UPS1K-2504-07391,2025-04,Plant-Chennai,west,battery charger fault,Charger module,2315.0
+WC100331,2025-08-06,ups 1 kva,UPS1K-2502-60000,2025-02,Plant-Chennai,south,cooling fan failed,Cooling fan,3228.0
+WC100351,05/10/2025,UPS 1KVA,UPS1K-2506-20707,2025-06,Plant-Chennai,S,no output - capacitor failed,DC bus capacitor,2986.0
+WC100389,2026-04-07,UPS 1kVA,UPS1K-2603-69215,2026-03,Plant-Chennai,south,battery not charging,,6410.0
+WC100533,2026-06-22,UPS-1KVA,UPS1K-2604-62323,2026-04,Plant-Chennai,West India,display blank,Display unit,2129.0
+WC100141,2026-05-11,UPS-1KVA,UPS1K-2603-43911,2026-03,Plant-Pune,South India,issue reported,,3349.0
+WC100646,2026-09-19,UPS 10 KVA,UPS10K-2509-44824,2025-09,Plant-Chennai,SOUTH ,bulged cap found,,24972.0
+WC100432,2025-12-12,UPS-1KVA,UPS1K-2509-64102,2025-09,Plant-Chennai,East India,battery charger fault,Charger module,1460.0
+WC100753,2025-05-01,Surge Protection Device,SPD40-2501-20006,2025-01,Plant-Pune,South India,SPD module failed,SPD module,973.0
+WC100307,2026-05-01,UPS 1kVA,UPS1K-2602-08197,2026-02,Plant-Chennai,N,fan noise and stopped,Cooling fan,3772.0
+WC100596,2026-05-23,UPS-10KVA,UPS10K-2604-51204,2026-04,Plant-Pune,west,DC bus capacitor bulged,DC bus capacitor,18313.0
+WC100337,2025-06-11,ups 1 kva,UPS1K-2504-90423,2025-04,Plant-Chennai,SOUTH ,fan noise and stopped,Cooling fan,5357.0
+WC100257,2026-05-09,UPS 1KVA,UPS1K-2604-45913,2026-04,Plant-Pune,west,inverter board fault,,2784.0
+WC100260,2026-09-02,UPS-1KVA,UPS1K-2604-55018,2026-04,Plant-Pune,W,battery not charging,Charger module,2115.0
+WC100278,2025-12-07,ups 1 kva,UPS1K-2505-22012,2025-05,Plant-Chennai,North India,fan noise and stopped,Cooling fan,5048.0
+WC100049,2026-05-07,UPS-1KVA,UPS1K-2601-29289,2026-01,Plant-Pune,North India,inverter card burnt,Inverter PCB,4154.0
+WC100128,2026-10-21,ups 1 kva,UPS1K-2511-98371,2025-11,Plant-Pune,south,"capacitr leaking, unit tripped",DC bus capacitor,4365.0
+WC100243,2026-02-07,ups 1 kva,UPS1K-2601-06714,2026-01,Plant-Pune,west,issue reported,Charger module,2824.0
+WC100743,2026-02-03,surge protector,SPD40-2511-89125,2025-11,Plant-Pune,North India,SPD module failed,SPD module,1854.0
+WC100720,2026-07-26,Switchgear LV,SWGLV-2603-54166,2026-03,Plant-Chennai,S,relay not resetting,Protection relay,35238.0
+WC100763,2026-04-14,Surge Protection Device,SPD40-2510-32438,2025-10,Plant-Pune,South,SPD module failed,SPD module,1610.0
+WC100303,2026-02-18,UPS-1KVA,UPS1K-2601-12230,2026-01,Plant-Chennai,North India,batt not charging after 2 months,Charger module,3428.0
+WC100016,2025-10-10,UPS 1kVA,UPS1K-2505-29635,2025-05,Plant-Pune,North India,no output - capacitor failed,DC bus capacitor,3962.0
+WC100455,2025-04-09,UPS 1kVA,UPS1K-2502-41972,2025-02,Plant-Chennai,West India,no o/p from ups,,3157.0
+WC100061,2026-06-21,UPS-1KVA,UPS1K-2604-70988,2026-04,Plant-Pune,N,battery not charging,Charger module,2136.0
+WC100265,2026-10-12,UPS 1kVA,UPS1K-2606-64416,2026-06,Plant-Pune,West,FAN FAILURE,Cooling fan,2318.0
+WC100047,2026-02-21,UPS 1KVA,UPS1K-2601-32897,2026-01,Plant-Pune,north,batt not charging after 2 months,Charger module,3350.0
+WC100135,2026-04-13,UPS-1KVA,UPS1K-2602-50208,2026-02,Plant-Pune,South India,battery not charging,Charger module,4648.0
+WC100356,2025-10-07,UPS-1KVA,UPS1K-2507-64654,2025-07,Plant-Chennai,S,battery charger fault,Charger module,5822.0
+WC100735,2025-07-12,Surge Protection Device,SPD40-2506-49084,2025-06,Plant-Pune,North India,body damaged on arrival,Housing,1357.0
+WC100703,2026-07-21,UPS 10 KVA,UPS10K-2512-57989,2025-12,Plant-Chennai,west,"output unstable, inverter pcb replaced",Inverter PCB,22798.0
+WC100427,2025-11-17,UPS 1KVA,UPS1K-2506-72097,2025-06,Plant-Chennai,east,display blank,Display unit,5205.0
+WC100058,2026-08-18,ups 1 kva,UPS1K-2603-60885,2026-03,Plant-Pune,North India,unit dead,,2737.0
+WC100456,2025-05-23,UPS 1kVA,UPS1K-2502-75468,2025-02,Plant-Chennai,west,fan not running,,2485.0
+WC100279,2026-01-27,UPS 1kVA,UPS1K-2505-46711,2025-05,Plant-Chennai,North India,no output,,3643.0
+WC100566,2025-03-24,UPS 10 KVA,UPS10K-2502-30772,2025-02,Plant-Pune,South,FAN FAILURE,Cooling fan,34355.0
+WC100756,2026-02-27,surge protector,SPD40-2503-53693,2025-03,Plant-Pune,SOUTH ,surge module blown,SPD module,2013.0
+WC100684,2025-11-20,UPS 10 KVA,UPS10K-2508-98414,2025-08,Plant-Chennai,west,cap failure on dc bus,DC bus capacitor,30526.0
+WC100467,2026-01-02,UPS 1KVA,UPS1K-2504-14375,2025-04,Plant-Chennai,West India,inverter fault E12,Inverter PCB,3215.0
+WC100527,2026-05-17,UPS 1KVA,UPS1K-2602-31281,2026-02,Plant-Chennai,WEST,battery charger fault,,4409.0
+WC100633,2025-08-15,UPS-10KVA,UPS10K-2506-13084,2025-06,Plant-Chennai,south,ups not giving output,,25524.0
+WC100737,2025-09-01,surge protector,SPD40-2507-32164,2025-07,Plant-Pune,North India,body damaged on arrival,,1500.0
+WC100180,2026-02-19,UPS-1KVA,UPS1K-2512-48132,2025-12,Plant-Pune,E,ups not giving output,,2984.0
+WC100055,2026-04-24,UPS-1KVA,UPS1K-2603-08440,2026-03,Plant-Pune,N,inverter board fault,Inverter PCB,-8608.0
+WC100666,2026-05-19,UPS 10 KVA,UPS10K-2509-45914,2025-09,Plant-Chennai,East India,bulged cap found,DC bus capacitor,46554.0
+WC100627,2026-07-20,UPS 10kVA,UPS10K-2606-47479,2026-06,Plant-Chennai,NORTH,issue reported,Inverter PCB,36818.0
+WC100524,2026-03-02,UPS 1kVA,UPS1K-2601-99809,2026-01,Plant-Chennai,W,batt not charging after 2 months,,3710.0
+WC100169,2025-12-26,UPS-1KVA,UPS1K-2507-87633,2025-07,Plant-Pune,E,batery not charging,Charger module,3120.0
+WC100205,2025-06-20,UPS 1kVA,UPS1K-2503-14135,2025-03,Plant-Pune,W,failed,,3005.0
+WC100098,2025-08-18,UPS 1KVA,UPS1K-2505-73698,2025-05,Plant-Pune,South India,cooling fan failed,,4601.0
+WC100111,2025-12-01,ups 1 kva,UPS1K-2507-93811,2025-07,Plant-Pune,South,fan not running,Cooling fan,3106.0
+WC100686,2025-12-01,UPS-10KVA,UPS10K-2508-20969,2025-08,Plant-Chennai,W,no output - capacitor failed,DC bus capacitor,16605.0
+WC100680,2026-02-22,UPS-10KVA,UPS10K-2507-38190,2025-07,Plant-Chennai,West,not working,Inverter PCB,35833.0
+WC100594,2026-03-13,ups 10kva,UPS10K-2510-43650,2025-10,Plant-Pune,W,battery charger fault,Charger module,21205.0
+WC100539,2026-08-19,UPS 1kVA,UPS1K-2605-58593,2026-05,Plant-Chennai,WEST,batery not charging,Charger module,6804.0
+WC100317,07/08/2026,UPS 1kVA,UPS1K-2606-15706,2026-06,Plant-Chennai,North India,batt not charging after 2 months,,3169.0
+WC100391,2026-05-15,UPS 1KVA,UPS1K-2603-68612,2026-03,Plant-Chennai,South,display error code,Display unit,2539.0
+WC100541,2026-07-23,UPS 1KVA,UPS1K-2606-48343,2026-06,Plant-Chennai,west,fan not running,,2590.0
+WC100149,2026-06-19,UPS 1KVA,UPS1K-2605-94829,2026-05,Plant-Pune,south,not working,,3159.0
+WC100519,2026-06-21,UPS 1KVA,UPS1K-2512-89103,2025-12,Plant-Chennai,West,batt not charging after 2 months,Charger module,3263.0
+WC100599,2026-08-26,UPS 10kVA,UPS10K-2604-95842,2026-04,Plant-Pune,W,battery not charging,,43387.0
+WC100442,2026-06-22,UPS-1KVA,UPS1K-2603-52635,2026-03,Plant-Chennai,East India,battery charger fault,Charger module,4623.0
+WC100051,2026-04-09,UPS 1kVA,UPS1K-2602-03670,2026-02,,North,batt not charging after 2 months,Charger module,3284.0
+WC100652,2026-05-05,UPS-10KVA,UPS10K-2604-20621,2026-04,Plant-Chennai,S,fan not running,Cooling fan,17460.0
+WC100510,2025-12-25,UPS 1kVA,UPS1K-2511-74561,2025-11,Plant-Chennai,West,"capacitr leaking, unit tripped",DC bus capacitor,2594.0
+WC100363,2026-01-01,ups 1 kva,UPS1K-2508-41681,2025-08,Plant-Chennai,SOUTH ,issue reported,Inverter PCB,4046.0
+WC100082,2025-07-07,ups 1 kva,UPS1K-2501-05082,2025-01,Plant-Pune,south,LCD not working,Display unit,3227.0
+WC100160,2025-04-27,UPS-1KVA,UPS1K-2503-30903,2025-03,Plant-Pune,east,inverter board fault,,5987.0
+WC100568,2025-06-06,UPS 10kVA,UPS10K-2503-59476,2025-03,Plant-Pune,South,fan not running,Cooling fan,13770.0
+WC100229,2026-02-09,ups 1 kva,UPS1K-2507-71233,2025-07,Plant-Pune,WEST,inverter fault E12,Inverter PCB,6386.0
+WC100067,2026-07-08,ups 1 kva,UPS1K-2605-95120,2026-05,Plant-Pune,N,fan noise and stopped,Cooling fan,2543.0
+WC100586,2025-04-10,UPS-10KVA,UPS10K-2503-59594,2025-03,Plant-Pune,W,batt not charging after 2 months,,22028.0
+WC100010,2025-05-07,UPS-1KVA,UPS1K-2503-76603,2025-03,Plant-Pune,North India,battery not charging,,7130.0
+WC100591,2025-10-20,UPS 10 KVA,UPS10K-2507-15903,2025-07,Plant-Pune,west,bulged cap found,DC bus capacitor,26474.0
+WC100147,2026-08-17,UPS-1KVA,UPS1K-2604-27764,2026-04,Plant-Pune,SOUTH ,batery not charging,Charger module,5029.0
+WC100154,2025-04-02,UPS 1kVA,UPS1K-2501-63492,2025-01,Plant-Pune,East India,not working,,3412.0
+WC100656,2026-07-25,UPS-10KVA,UPS10K-2606-84518,2026-06,Plant-Chennai,SOUTH ,inverter fault E12,Inverter PCB,33580.0
+WC100790,2026-02-03,SPD 40kA,SPD40-2509-83439,2025-09,Plant-Pune,west,spd status red,,876.0
+WC100740,2025-11-23,surge protector,SPD40-2509-47755,2025-09,Plant-Pune,North,surge module blown,SPD module,1685.0
+WC100544,2026-10-25,ups 1 kva,UPS1K-2606-88293,2026-06,Plant-Chennai,WEST,cooling fan failed,Cooling fan,4719.0
+WC100598,2026-07-07,UPS-10KVA,UPS10K-2604-03782,2026-04,Plant-Pune,W,batt not charging after 2 months,,62241.0
+WC100221,2025-08-05,UPS 1kVA,UPS1K-2507-71312,2025-07,Plant-Pune,WEST,customer complaint - fault,Charger module,2916.0
+WC100065,2026-08-08,UPS 1kVA,UPS1K-2604-99033,2026-04,Plant-Pune,north,fan not running,,2097.0
+WC100532,2026-06-22,UPS-1KVA,UPS1K-2604-41543,2026-04,Plant-Chennai,West,FAN FAILURE,Cooling fan,2818.0
+WC100272,2025-09-17,ups 1 kva,UPS1K-2502-48572,2025-02,Plant-Chennai,N,capacitor leaking,DC bus capacitor,2292.0
+WC100501,2025-11-17,UPS 1kVA,UPS1K-2510-89557,2025-10,Plant-Chennai,West,batery not charging,Charger module,3356.0
+WC100217,2025-10-22,UPS 1kVA,UPS1K-2506-33981,2025-06,Plant-Pune,WEST,cooling fan failed,Cooling fan,5754.0
+WC100187,2026-07-20,UPS 1KVA,UPS1K-2603-26921,2026-03,Plant-Pune,EAST,batery not charging,Charger module,1951.0
+WC100571,2025-12-07,UPS 10 KVA,UPS10K-2506-68496,2025-06,Plant-Pune,South,inverter board fault,Inverter PCB,12615.0
+WC100335,2025-05-15,UPS 1KVA,UPS1K-2504-03514,2025-04,Plant-Chennai,South,issue reported,Charger module,2060.0
+WC100631,2025-05-02,ups 10kva,UPS10K-2503-85269,2025-03,Plant-Chennai,SOUTH ,fan noise and stopped,Cooling fan,37776.0
+WC100306,2026-05-15,ups 1 kva,UPS1K-2602-40181,2026-02,Plant-Chennai,N,"output unstable, inverter pcb replaced",,3788.0
+WC100295,2026-02-26,ups 1 kva,UPS1K-2509-37959,2025-09,Plant-Chennai,NORTH,issue reported,Cooling fan,2809.0
+WC100752,27/04/2025,surge protector,SPD40-2501-15177,2025-01,Plant-Pune,South,indicator not working,Indicator,602.0
+WC100373,2026-06-02,UPS 1kVA,UPS1K-2511-13596,2025-11,Plant-Chennai,south,unit not working,,5631.0
+WC100464,2025-05-20,ups 1 kva,UPS1K-2504-33614,2025-04,Plant-Chennai,west,battery not charging,Charger module,3224.0
+WC100025,2025-09-21,UPS 1kVA,UPS1K-2507-09346,2025-07,Plant-Pune,North,battery charger fault,Charger module,3185.0
+WC100424,2025-05-27,UPS-1KVA,UPS1K-2504-64936,2025-04,Plant-Chennai,East India,failed,Charger module,2479.0
+WC100565,2025-08-23,ups 10kva,UPS10K-2501-77036,2025-01,Plant-Pune,south,failed,,43828.0
+WC100583,2026-04-03,ups 10kva,UPS10K-2603-60198,2026-03,Plant-Pune,E,batt not charging after 2 months,Charger module,21999.0
+WC100424,2025-05-27,UPS-1KVA,UPS1K-2504-64936,2025-04,Plant-Chennai,East India,failed,Charger module,2479.0
+WC100572,2026-02-16,ups 10kva,UPS10K-2508-86816,2025-08,Plant-Pune,SOUTH ,bulged cap found,DC bus capacitor,44752.0
+WC100664,2025-12-19,UPS 10kVA,UPS10K-2509-19013,2025-09,Plant-Chennai,East India,"capacitr leaking, unit tripped",DC bus capacitor,36659.0
+WC100436,2026-02-05,UPS 1KVA,UPS1K-2511-08426,2025-11,Plant-Chennai,East India,no o/p from ups,,3681.0
+WC100573,2026-04-09,ups 10kva,UPS10K-2508-39433,2025-08,Plant-Pune,S,cap failure on dc bus,DC bus capacitor,24001.0
+WC100206,2025-07-03,UPS 1kVA,UPS1K-2503-73768,2025-03,Plant-Pune,WEST,display error code,Display unit,2964.0
+WC100167,2025-08-14,UPS-1KVA,UPS1K-2507-23384,2025-07,Plant-Pune,East India,battery not charging,Charger module,5071.0
+WC100348,2026-03-10,UPS 1kVA,UPS1K-2505-26380,2025-05,Plant-Chennai,S,cooling fan failed,Cooling fan,3596.0
+WC100262,2026-09-20,UPS 1KVA,UPS1K-2606-24576,2026-06,Plant-Pune,west,batt not charging after 2 months,,5461.0
+WC100766,2026-05-06,Surge Protection Device,SPD40-2601-50543,2026-01,Plant-Pune,south,surge module blown,SPD module,2099.0
+WC100685,22/11/2025,UPS 10 KVA,UPS10K-2508-28348,2025-08,Plant-Chennai,west,capacitor leaking,DC bus capacitor,40936.0
+WC100075,2025-02-17,ups 1 kva,UPS1K-2501-20793,2025-01,Plant-Pune,South,bulged cap found,,1522.0
+WC100297,2026-01-17,UPS 1KVA,UPS1K-2511-18008,2025-11,Plant-Chennai,N,FAN FAILURE,Cooling fan,3465.0
+WC100245,2026-04-27,UPS 1kVA,UPS1K-2601-28962,2026-01,Plant-Pune,WEST,panel display dead,,3583.0
+WC100129,2026-01-02,UPS 1KVA,UPS1K-2512-89869,2025-12,Plant-Pune,SOUTH ,no output - capacitor failed,DC bus capacitor,7504.0
+WC100564,2025-03-01,UPS-10KVA,UPS10K-2501-19426,2025-01,Plant-Pune,South,failed,Cooling fan,24885.0
+WC100110,2025-11-21,UPS 1KVA,UPS1K-2507-87922,2025-07,Plant-Pune,SOUTH ,battery charger fault,Charger module,4461.0
+WC100026,2025-10-26,UPS-1KVA,UPS1K-2507-33100,2025-07,Plant-Pune,North India,inverter fault E12,Inverter PCB,3618.0
+WC100588,2025-07-07,UPS 10 KVA,UPS10K-2504-07069,2025-04,Plant-Pune,West,battery not charging,,46576.0
+WC100478,2025-10-04,ups 1 kva,UPS1K-2507-34962,2025-07,Plant-Chennai,W,battery not charging,Charger module,4488.0
+WC100779,2026-07-10,Surge Protection Device,SPD40-2606-85345,,Plant-Pune,East India,indicator window red,Indicator,1613.0
+WC100376,2026-01-05,UPS-1KVA,UPS1K-2512-99275,2025-12,Plant-Chennai,South India,batt not charging after 2 months,,2075.0
+WC100693,2025-12-01,ups 10kva,UPS10K-2509-48256,2025-09,Plant-Chennai,W,DC bus capacitor bulged,DC bus capacitor,36648.0
+WC100639,2026-01-10,UPS 10 KVA,UPS10K-2508-44236,2025-08,Plant-Chennai,South India,no output - capacitor failed,DC bus capacitor,0.0
+WC100750,2026-08-20,surge protector,SPD40-2606-20829,2026-06,Plant-Pune,N,spd status red,,1699.0
+WC100354,2025-08-11,UPS 1KVA,UPS1K-2507-35545,2025-07,Plant-Chennai,South,no o/p from ups,,6495.0
+WC100100,2025-11-20,UPS 1KVA,UPS1K-2505-30466,2025-05,Plant-Pune,S,ups not giving output,,3186.0
+WC100193,2026-08-10,ups 1 kva,UPS1K-2606-92365,2026-06,Plant-Pune,E,fan not running,Cooling fan,4244.0
+WC100025,2025-09-21,UPS 1kVA,UPS1K-2507-09346,2025-07,Plant-Pune,North,battery charger fault,Charger module,3185.0
+WC100192,2026-07-20,UPS-1KVA,UPS1K-2605-55859,2026-05,Plant-Pune,East,battery charger fault,Charger module,5250.0
+WC100797,2026-05-22,SPD 40kA,SPD40-2603-34057,2026-03,Plant-Pune,West India,surge module blown,SPD module,1586.0
+WC100642,2026-06-16,UPS 10kVA,UPS10K-2508-37776,2025-08,Plant-Chennai,South,bulged cap found,DC bus capacitor,60379.0
+WC100511,2026-02-03,UPS-1KVA,UPS1K-2511-64076,2025-11,Plant-Chennai,West,no o/p from ups,,3043.0
+WC100558,2026-07-09,UPS 10kVA,UPS10K-2512-01381,2025-12,Plant-Pune,North,no output,,26261.0
+WC100361,2025-10-05,ups 1 kva,UPS1K-2508-91764,2025-08,Plant-Chennai,SOUTH ,batery not charging,Charger module,4026.0
+WC100233,2025-10-16,UPS 1KVA,UPS1K-2509-38997,2025-09,Plant-Pune,W,unit dead,,2606.0
+WC100601,2026-07-10,UPS 10kVA,UPS10K-2606-23966,2026-06,Plant-Pune,W,inverter board fault,,51428.0
+WC100254,2026-05-26,ups 1 kva,UPS1K-2603-53408,2026-03,Plant-Pune,W,batt not charging after 2 months,Charger module,0.0
+WC100366,18/03/2026,UPS-1KVA,UPS1K-2509-95940,2025-09,Plant-Chennai,S,fan noise and stopped,Cooling fan,3992.0
+WC100071,2026-08-10,UPS-1KVA,UPS1K-2606-09964,2026-06,Plant-Pune,N,"output unstable, inverter pcb replaced",Inverter PCB,3484.0
+WC100552,2025-09-27,UPS 10 KVA,UPS10K-2507-90356,2025-07,Plant-Pune,North,unit not working,,38786.0
+WC100408,2026-07-03,UPS-1KVA,UPS1K-2606-58933,2026-06,Plant-Chennai,S,ups not giving output,,1804.0
+WC100543,2026-07-07,ups 1 kva,UPS1K-2606-41921,2026-06,Plant-Chennai,WEST,batery not charging,Charger module,5328.0
+WC100499,2026-09-01,UPS-1KVA,UPS1K-2509-95138,2025-09,Plant-Chennai,West,cooling fan failed,Cooling fan,2459.0
+WC100380,2026-03-19,ups 1 kva,UPS1K-2601-57887,2026-01,Plant-Chennai,south,ups not giving output,,7987.0
+WC100415,2025-03-24,UPS-1KVA,UPS1K-2502-51421,2025-02,Plant-Chennai,E,inverter fault E12,,2936.0
+WC100723,2025-09-01,lv switchgear,SWGLV-2505-98600,,Plant-Chennai,West,contactor chattering,Contactor,52903.0
+WC100678,2025-10-04,UPS-10KVA,UPS10K-2507-65504,2025-07,Plant-Chennai,WEST,"output unstable, inverter pcb replaced",Inverter PCB,0.0
+WC100082,2025-07-07,ups 1 kva,UPS1K-2501-05082,2025-01,Plant-Pune,south,LCD not working,Display unit,3227.0
+WC100509,2026-02-24,UPS 1kVA,UPS1K-2510-19961,2025-10,Plant-Chennai,west,batt not charging after 2 months,Charger module,2843.0
+WC100644,2026-05-15,ups 10kva,UPS10K-2509-14994,2025-09,Plant-Chennai,S,no o/p from ups,,49174.0
+WC100443,2026-06-26,ups 1 kva,UPS1K-2604-99554,2026-04,Plant-Chennai,East,display error code,,4028.0
+WC100172,2025-10-22,UPS 1kVA,UPS1K-2509-72808,2025-09,Plant-Pune,E,"output unstable, inverter pcb replaced",,3509.0
+WC100404,2026-08-02,UPS-1KVA,UPS1K-2605-39160,2026-05,Plant-Chennai,South,LCD not working,Display unit,3504.0
+WC100770,2026-07-02,surge protector,SPD40-2605-78327,2026-05,Plant-Pune,south,surge module blown,SPD module,1131.0
+WC100412,2025-02-12,UPS 1kVA,UPS1K-2501-78676,2025-01,Plant-Chennai,E,inverter card burnt,Inverter PCB,3306.0
+WC100472,2025-09-08,UPS 1kVA,UPS1K-2505-22873,2025-05,Plant-Chennai,W,display blank,Display unit,3732.0
+WC100223,2025-08-04,UPS 1KVA,UPS1K-2507-89911,2025-07,Plant-Pune,West India,battery not charging,Charger module,2011.0
+WC100548,2025-06-15,UPS 10 KVA,UPS10K-2503-83611,2025-03,Plant-Pune,N,"output unstable, inverter pcb replaced",Inverter PCB,48871.0
+WC100023,2025-08-01,ups 1 kva,UPS1K-2507-88427,2025-07,Plant-Pune,North,DC bus capacitor bulged,DC bus capacitor,4568.0
+WC100669,2026-06-11,ups 10kva,UPS10K-2603-18668,2026-03,Plant-Chennai,east,batt not charging after 2 months,,47456.0
+WC100252,2026-08-18,UPS 1KVA,UPS1K-2602-12195,2026-02,Plant-Pune,west,inverter card burnt,Inverter PCB,4080.0
+WC100003,2025-03-03,UPS-1KVA,UPS1K-2501-99069,2025-01,Plant-Pune,North,customer complaint - fault,Inverter PCB,3227.0
+WC100230,2026-03-11,UPS 1KVA,UPS1K-2507-20662,2025-07,Plant-Pune,West India,FAN FAILURE,Cooling fan,2089.0
+WC100284,2025-08-25,UPS 1kVA,UPS1K-2506-86334,2025-06,Plant-Chennai,NORTH,"output unstable, inverter pcb replaced",,3105.0
+WC100772,2025-07-12,surge protector,SPD40-2506-46335,2025-06,Plant-Pune,East,housing cracked,,1203.0
+WC100452,2025-05-04,UPS-1KVA,UPS1K-2501-83681,2025-01,Plant-Chennai,West,ups not giving output,,3872.0
+WC100706,2026-04-01,UPS 10 KVA,UPS10K-2601-71325,,Plant-Chennai,West,"output unstable, inverter pcb replaced",Inverter PCB,33526.0
+WC100133,2026-03-20,UPS 1kVA,UPS1K-2602-82332,2026-02,Plant-Pune,South,batery not charging,,3469.0
+WC100200,2025-05-16,UPS 1KVA,UPS1K-2502-36548,2025-02,Plant-Pune,W,failed,DC bus capacitor,2670.0
+WC100116,2025-09-02,ups 1 kva,UPS1K-2508-32737,2025-08,Plant-Pune,South,batery not charging,Charger module,4437.0
+WC100358,2025-11-23,UPS 1kVA,UPS1K-2507-83133,2025-07,Plant-Chennai,SOUTH ,batery not charging,Charger module,3757.0
+WC100626,2026-07-14,ups 10kva,UPS10K-2605-25886,2026-05,Plant-Chennai,North,battery not charging,Charger module,25539.0
+WC100593,2025-11-05,ups 10kva,UPS10K-2508-41157,2025-08,Plant-Pune,W,"capacitr leaking, unit tripped",DC bus capacitor,33191.0
+WC100602,2026-08-13,UPS 10 KVA,UPS10K-2606-21793,2026-06,Plant-Pune,WEST,no output - capacitor failed,DC bus capacitor,25952.0
+WC100066,2026-08-08,UPS-1KVA,UPS1K-2604-54096,2026-04,Plant-Pune,N,fan noise and stopped,Cooling fan,3733.0
+WC100324,10/10/2025,UPS 1kVA,UPS1K-2501-95290,2025-01,Plant-Chennai,south,battery not charging,Charger module,3893.0
+WC100052,2026-05-12,UPS 1kVA,UPS1K-2602-50285,2026-02,Plant-Pune,N,no output - capacitor failed,DC bus capacitor,3835.0
+WC100372,2026-03-26,UPS 1kVA,UPS1K-2510-73365,2025-10,Plant-Chennai,south,LCD not working,Display unit,2711.0
+WC100732,2025-06-25,SPD-40,SPD40-2504-90173,2025-04,Plant-Pune,north,surge module blown,SPD module,1933.0
+WC100801,2026-07-05,surge protector,SPD40-2606-42649,2026-06,Plant-Pune,WEST,SPD module failed,SPD module,1761.0
+WC100768,2026-05-20,SPD 40kA,SPD40-2604-31944,2026-04,Plant-Pune,south,surge module blown,SPD module,1679.0
+WC100643,2025-10-15,UPS 10 KVA,UPS10K-2509-10897,2025-09,Plant-Chennai,south,inverter board fault,Inverter PCB,37145.0
+WC100592,2025-12-19,UPS 10kVA,UPS10K-2507-97206,2025-07,Plant-Pune,WEST,bulged cap found,,24301.0
+WC100386,2026-04-16,UPS 1kVA,UPS1K-2603-91341,2026-03,Plant-Chennai,south,no output - capacitor failed,,1655.0
+WC100667,2025-09-11,UPS 10 KVA,UPS10K-2510-63540,2025-10,Plant-Chennai,EAST,cooling fan failed,Cooling fan,30694.0
+WC100609,2025-11-09,UPS-10KVA,UPS10K-2507-87805,2025-07,Plant-Chennai,North,battery not charging,Charger module,13974.0
+WC100751,2025-02-04,SPD-40,SPD40-2501-58118,2025-01,Plant-Pune,south,failed,SPD module,980.0
+WC100178,2026-02-23,ups 1 kva,UPS1K-2511-75548,2025-11,Plant-Pune,E,cooling fan failed,,2098.0
+WC100038,2025-12-18,UPS-1KVA,UPS1K-2511-08229,2025-11,Plant-Pune,North,batery not charging,Charger module,3754.0
+WC100203,2025-04-08,UPS 1kVA,UPS1K-2503-37558,,Plant-Pune,West,no output - capacitor failed,,2005.0
+WC100237,2025-12-02,ups 1 kva,UPS1K-2511-97620,2025-11,Plant-Pune,West,battery charger fault,Charger module,4808.0
+WC100150,2026-06-24,UPS-1KVA,UPS1K-2605-29044,2026-05,Plant-Pune,South,fan not running,Cooling fan,6411.0
+WC100218,2025-11-05,UPS 1kVA,UPS1K-2506-64435,2025-06,Plant-Pune,west,cap failure on dc bus,,3267.0
+WC100554,2026-03-02,ups 10kva,UPS10K-2509-64930,2025-09,Plant-Pune,north,bulged cap found,DC bus capacitor,23922.0
+WC100485,2025-09-22,UPS-1KVA,UPS1K-2508-44694,2025-08,Plant-Chennai,West India,failed,,3252.0
+WC100712,2026-09-21,UPS 10 KVA,UPS10K-2606-99882,2026-06,Plant-Chennai,west,inverter fault E12,Inverter PCB,17093.0
+WC100621,2026-04-13,ups 10kva,UPS10K-2512-58747,2025-12,Plant-Chennai,North,capacitor leaking,,32612.0
+WC100758,2026-04-24,SPD 40kA,SPD40-2507-87970,2025-07,Plant-Pune,South,spd status red,SPD module,1652.0
+WC100329,2025-04-24,UPS-1KVA,UPS1K-2502-06718,2025-02,Plant-Chennai,South,cooling fan failed,Cooling fan,3503.0
+WC100286,2025-08-15,UPS 1kVA,UPS1K-2507-29855,2025-07,Plant-Chennai,N,DC bus capacitor bulged,DC bus capacitor,3558.0
+WC100194,2026-09-24,ups 1 kva,UPS1K-2606-27530,2026-06,Plant-Pune,East India,inverter board fault,,4693.0
+WC100236,2026-03-03,UPS 1KVA,UPS1K-2510-86645,2025-10,Plant-Pune,W,fan noise and stopped,,6536.0
+WC100687,2025-12-20,UPS 10kVA,UPS10K-2508-98491,2025-08,Plant-Chennai,WEST,capacitor leaking,DC bus capacitor,22498.0
+WC100056,2026-05-17,UPS-1KVA,UPS1K-2603-38245,2026-03,Plant-Pune,North,battery charger fault,Charger module,3281.0
+WC100309,2026-05-27,ups 1 kva,UPS1K-2603-88125,2026-03,Plant-Chennai,North,battery charger fault,Charger module,3129.0
+WC100097,2025-08-01,UPS 1KVA,UPS1K-2505-37583,2025-05,Plant-Pune,south,batt not charging after 2 months,Charger module,2606.0
+WC100142,2026-05-02,UPS 1KVA,UPS1K-2604-69917,2026-04,Plant-Pune,South,DC bus capacitor bulged,DC bus capacitor,4464.0
+WC100587,2025-06-07,UPS 10kVA,UPS10K-2504-58382,2025-04,Plant-Pune,west,DC bus capacitor bulged,DC bus capacitor,29037.0
+WC100709,2026-07-26,UPS-10KVA,UPS10K-2605-82568,2026-05,Plant-Chennai,West,inverter card burnt,Inverter PCB,29431.0
+WC100504,2025-12-15,UPS 1kVA,UPS1K-2510-51938,2025-10,Plant-Chennai,West,display blank,Display unit,4248.0
+WC100420,2025-06-10,ups 1 kva,UPS1K-2503-71847,2025-03,Plant-Chennai,East,batery not charging,,4862.0
+WC100121,2025-10-20,UPS-1KVA,UPS1K-2509-33977,2025-09,Plant-Pune,S,batt not charging after 2 months,Charger module,2987.0
+WC100512,2026-01-26,ups 1 kva,UPS1K-2512-64419,2025-12,Plant-Chennai,W,fan noise and stopped,Cooling fan,7628.0
+WC100675,2025-08-24,ups 10kva,UPS10K-2503-00615,2025-03,Plant-Chennai,West,fan not running,,41620.0
+WC100622,2026-02-27,UPS 10kVA,UPS10K-2601-13179,2026-01,Plant-Chennai,N,ups not giving output,,35666.0
+WC100300,2026-04-22,UPS-1KVA,UPS1K-2512-07133,2025-12,Plant-Chennai,N,inverter fault E12,,5134.0
+WC100004,2025-03-06,UPS 1KVA,UPS1K-2501-20942,2025-01,,North India,inverter fault E12,Inverter PCB,2276.0
+WC100059,2026-05-05,UPS-1KVA,UPS1K-2604-65206,2026-04,Plant-Pune,North,LCD not working,Display unit,3352.0
+WC100224,25/08/2025,UPS 1KVA,UPS1K-2507-01775,2025-07,Plant-Pune,West India,panel display dead,Display unit,3248.0
+WC100382,2026-04-15,UPS-1KVA,UPS1K-2601-99885,2026-01,Plant-Chennai,S,inverter card burnt,,2956.0
+WC100102,2025-07-01,UPS 1KVA,UPS1K-2506-84335,2025-06,Plant-Pune,South,inverter fault E12,Inverter PCB,4153.0
+WC100222,2025-08-18,UPS 1KVA,UPS1K-2507-00937,2025-07,Plant-Pune,West,no output - capacitor failed,DC bus capacitor,3997.0
+WC100465,2025-05-13,UPS 1KVA,UPS1K-2504-24458,2025-04,Plant-Chennai,West India,batt not charging after 2 months,Charger module,3115.0
+WC100438,2026-03-09,ups 1 kva,UPS1K-2602-70857,2026-02,Plant-Chennai,E,inverter board fault,Inverter PCB,7218.0
+WC100053,2026-04-15,UPS 1kVA,UPS1K-2603-63389,2026-03,Plant-Pune,N,"output unstable, inverter pcb replaced",Inverter PCB,3182.0
+WC100018,2025-10-18,UPS-1KVA,UPS1K-2506-77023,2025-06,Plant-Pune,north,battery charger fault,,4596.0
+WC100156,2025-04-19,UPS-1KVA,UPS1K-2502-82655,2025-02,Plant-Pune,EAST,inverter fault E12,Inverter PCB,2455.0
+WC100544,2026-10-25,ups 1 kva,UPS1K-2606-88293,2026-06,Plant-Chennai,WEST,cooling fan failed,Cooling fan,4719.0
+WC100249,2026-04-07,UPS 1KVA,UPS1K-2602-99833,2026-02,Plant-Pune,WEST,batt not charging after 2 months,Charger module,3175.0
+WC100250,2026-04-20,UPS-1KVA,UPS1K-2602-55827,2026-02,Plant-Pune,West,not working,Inverter PCB,4135.0
+WC100670,2026-09-05,ups 10kva,UPS10K-2605-76359,2026-05,Plant-Chennai,E,battery not charging,,31704.0
+WC100699,2026-01-23,ups 10kva,UPS10K-2511-27135,2025-11,Plant-Chennai,WEST,fan not running,Cooling fan,28632.0
+WC100031,2025-12-23,UPS 1kVA,UPS1K-2509-80953,2025-09,Plant-Pune,North,FAN FAILURE,Cooling fan,3331.0
+WC100352,2026-04-18,UPS 1KVA,UPS1K-2506-49288,2025-06,Plant-Chennai,SOUTH ,LCD not working,Display unit,-4657.0
+WC100792,2026-03-10,SPD 40kA,SPD40-2510-41838,2025-10,Plant-Pune,West,surge module blown,SPD module,1737.0
+WC100118,2025-10-06,UPS 1kVA,UPS1K-2508-74519,2025-08,Plant-Pune,SOUTH ,battery charger fault,Charger module,2717.0
+WC100761,2025-11-16,Surge Protection Device,SPD40-2509-78388,2025-09,Plant-Pune,S,SPD module failed,SPD module,1275.0
+WC100117,2025-09-17,ups 1 kva,UPS1K-2508-72417,2025-08,Plant-Pune,south,"output unstable, inverter pcb replaced",Inverter PCB,0.0
+WC100690,2026-05-05,UPS-10KVA,UPS10K-2508-15847,2025-08,Plant-Chennai,west,cap failure on dc bus,DC bus capacitor,26218.0
+WC100545,2026-10-22,UPS 1KVA,UPS1K-2606-03195,2026-06,Plant-Chennai,West India,batt not charging after 2 months,Charger module,2865.0
+WC100409,2026-07-17,UPS 1kVA,UPS1K-2606-92426,2026-06,Plant-Chennai,South India,battery charger fault,Charger module,1517.0
+WC100028,2025-12-27,UPS 1kVA,UPS1K-2507-74646,2025-07,Plant-Pune,North,fan not running,Cooling fan,3213.0
+WC100308,2026-04-01,UPS 1kVA,UPS1K-2603-61728,,Plant-Chennai,NORTH,fan not running,Cooling fan,5738.0
+WC100657,2026-08-27,ups 10kva,UPS10K-2606-60488,2026-06,Plant-Chennai,S,fan not running,Cooling fan,19222.0
+WC100201,2025-08-22,UPS 1kVA,UPS1K-2502-97732,2025-02,Plant-Pune,West India,FAN FAILURE,,3958.0
+WC100421,2025-08-26,UPS-1KVA,UPS1K-2503-44357,2025-03,Plant-Chennai,East India,capacitor leaking,,3240.0
+WC100741,2025-11-06,SPD-40,SPD40-2510-87855,2025-10,Plant-Pune,North,indicator not working,Indicator,649.0
+WC100654,2026-07-27,UPS 10 KVA,UPS10K-2605-08332,2026-05,Plant-Chennai,South,panel display dead,Display unit,22536.0
+WC100777,2026-10-17,SPD 40kA,SPD40-2605-37185,2026-05,Plant-Pune,east,indicator not working,,927.0
+WC100446,2026-06-09,ups 1 kva,UPS1K-2605-22726,2026-05,Plant-Chennai,EAST,"output unstable, inverter pcb replaced",,4050.0
+WC100695,2026-01-01,UPS-10KVA,UPS10K-2509-77611,2025-09,Plant-Chennai,West,DC bus capacitor bulged,DC bus capacitor,43698.0
+WC100281,2026-02-09,UPS-1KVA,UPS1K-2505-97886,2025-05,Plant-Chennai,North India,"capacitr leaking, unit tripped",,4232.0
+WC100780,2026-10-19,Surge Protection Device,SPD40-2606-39182,2026-06,Plant-Pune,east,surge module blown,SPD module,1291.0
+WC100526,2026-03-17,UPS 1kVA,UPS1K-2602-79111,2026-02,Plant-Chennai,WEST,fan not running,Cooling fan,4611.0
+WC100208,2025-07-20,ups 1 kva,UPS1K-2504-79615,2025-04,Plant-Pune,WEST,not working,Inverter PCB,3164.0
+WC100651,2026-10-12,UPS-10KVA,UPS10K-2603-14761,2026-03,Plant-Chennai,SOUTH ,batery not charging,,32253.0
+WC100024,2025-08-10,UPS 1kVA,UPS1K-2507-98683,2025-07,Plant-Pune,NORTH,DC bus capacitor bulged,DC bus capacitor,2363.0
+WC100570,2025-07-10,ups 10kva,UPS10K-2506-34738,2025-06,Plant-Pune,South India,ups not giving output,,25102.0
+WC100619,2026-04-11,ups 10kva,UPS10K-2511-44805,2025-11,Plant-Chennai,north,fan noise and stopped,Cooling fan,37805.0
+WC100155,2025-03-07,ups 1 kva,UPS1K-2502-75626,2025-02,Plant-Pune,E,inverter board fault,Inverter PCB,2416.0
+WC100707,2026-07-23,UPS 10 KVA,UPS10K-2604-98790,2026-04,Plant-Chennai,W,not working,,35691.0
+WC100597,2026-05-25,UPS 10 KVA,UPS10K-2604-45661,2026-04,Plant-Pune,W,no output,,29253.0
+WC100645,2026-08-03,UPS-10KVA,UPS10K-2509-88078,2025-09,Plant-Chennai,south,"capacitr leaking, unit tripped",DC bus capacitor,16383.0
+WC100398,2026-06-13,UPS 1KVA,UPS1K-2604-67718,2026-04,Plant-Chennai,south,capacitor leaking,DC bus capacitor,6232.0
+WC100787,2025-10-12,SPD-40,SPD40-2507-35752,2025-07,Plant-Pune,West,housing cracked,Housing,2325.0
+WC100677,2025-11-12,UPS 10 KVA,UPS10K-2505-49891,2025-05,Plant-Chennai,W,not working,,22371.0
+WC100771,2025-05-23,SPD 40kA,SPD40-2502-84000,2025-02,Plant-Pune,East India,SPD module failed,,1500.0
+WC100263,2026-09-07,UPS-1KVA,UPS1K-2606-90825,2026-06,Plant-Pune,west,failed,Cooling fan,2184.0
+WC100083,2025-09-09,UPS 1kVA,UPS1K-2501-84291,2025-01,Plant-Pune,S,cap failure on dc bus,,3298.0
+WC100749,2026-08-26,SPD 40kA,SPD40-2605-46773,2026-05,Plant-Pune,N,status indicator fault,Indicator,751.0
+WC100800,2026-09-05,SPD-40,SPD40-2605-35218,2026-05,Plant-Pune,West India,issue reported,Indicator,855.0
+WC100039,2025-12-23,UPS-1KVA,UPS1K-2511-57656,2025-11,Plant-Pune,North India,fan noise and stopped,,3986.0
+WC100413,2025-03-14,UPS 1kVA,UPS1K-2501-35238,2025-01,Plant-Chennai,East,ups not giving output,,1852.0
+WC100334,2025-05-24,UPS 1KVA,UPS1K-2504-38745,2025-04,Plant-Chennai,South,bulged cap found,DC bus capacitor,5298.0
+WC100011,2025-06-01,UPS-1KVA,UPS1K-2503-47135,2025-03,Plant-Pune,north,fan noise and stopped,,5706.0
+WC100721,2025-04-27,LV Switchgear Panel,SWGLV-2503-79765,2025-03,Plant-Chennai,East,ACB trip fault,,25472.0
+WC100320,2025-02-23,ups 1 kva,UPS1K-2501-52149,2025-01,Plant-Chennai,South,no output,,3726.0
+WC100033,2025-12-12,UPS 1kVA,UPS1K-2510-31989,2025-10,Plant-Pune,N,DC bus capacitor bulged,DC bus capacitor,2400.0
+WC100493,2025-11-17,UPS-1KVA,UPS1K-2509-29913,2025-09,,West,inverter board fault,Inverter PCB,4833.0
+WC100559,2026-06-16,UPS-10KVA,UPS10K-2602-64260,2026-02,Plant-Pune,N,batery not charging,,23774.0
+WC100282,2025-07-17,UPS 1KVA,UPS1K-2506-45839,2025-06,Plant-Chennai,NORTH,display error code,,6236.0
+WC100474,2025-11-13,UPS-1KVA,UPS1K-2505-91219,2025-05,Plant-Chennai,west,batt not charging after 2 months,,2983.0
+WC100738,2025-10-07,Surge Protection Device,SPD40-2507-13202,2025-07,Plant-Pune,north,housing cracked,,2211.0
+WC100488,2026-01-19,UPS 1kVA,UPS1K-2508-90189,2025-08,Plant-Chennai,West India,FAN FAILURE,Cooling fan,3074.0
+WC100745,2026-04-27,SPD-40,SPD40-2601-82239,2026-01,Plant-Pune,N,SPD module failed,,1119.0
+WC100359,2025-12-25,UPS 1kVA,UPS1K-2507-08872,2025-07,Plant-Chennai,South India,no output - capacitor failed,DC bus capacitor,4236.0
+WC100436,05/02/2026,UPS 1KVA,UPS1K-2511-08426,2025-11,Plant-Chennai,East India,no o/p from ups,,3681.0
+WC100090,2025-09-03,ups 1 kva,UPS1K-2503-13135,2025-03,Plant-Pune,South India,cap failure on dc bus,,1939.0
+WC100214,21/08/2025,UPS 1kVA,UPS1K-2506-10755,2025-06,Plant-Pune,WEST,unit not working,Inverter PCB,6005.0
+WC100322,2025-04-10,UPS-1KVA,UPS1K-2501-74882,2025-01,Plant-Chennai,S,batery not charging,,2238.0
+WC100689,2026-01-10,UPS 10 KVA,UPS10K-2508-65242,2025-08,Plant-Chennai,WEST,panel display dead,Display unit,44237.0
+WC100134,2026-03-25,UPS-1KVA,UPS1K-2602-22496,2026-02,Plant-Pune,south,FAN FAILURE,Cooling fan,5565.0
+WC100347,2025-11-26,UPS 1kVA,UPS1K-2505-16582,2025-05,Plant-Chennai,S,"output unstable, inverter pcb replaced",Inverter PCB,4214.0
+WC100044,2026-03-07,UPS 1KVA,UPS1K-2512-82761,2025-12,Plant-Pune,north,DC bus capacitor bulged,DC bus capacitor,5369.0
+WC100008,2025-07-26,UPS 1kVA,UPS1K-2502-94705,2025-02,Plant-Pune,north,DC bus capacitor bulged,,1903.0
+WC100492,2025-10-15,ups 1 kva,UPS1K-2509-87224,2025-09,Plant-Chennai,West India,batt not charging after 2 months,Charger module,4037.0
+WC100423,2026-02-27,UPS 1KVA,UPS1K-2503-85341,2025-03,Plant-Chennai,East India,batt not charging after 2 months,Charger module,2804.0
+WC100640,2026-03-22,UPS 10kVA,UPS10K-2508-68508,2025-08,Plant-Chennai,SOUTH ,fan not running,Cooling fan,30027.0
+WC100188,2026-07-09,UPS 1KVA,UPS1K-2603-06130,2026-03,Plant-Pune,East,capacitor leaking,DC bus capacitor,3921.0
+WC100123,2025-10-10,UPS 1kVA,UPS1K-2509-41335,2025-09,Plant-Pune,south,batery not charging,Charger module,6685.0
+WC100041,2026-01-07,UPS-1KVA,UPS1K-2511-09230,2025-11,Plant-Pune,North India,cooling fan failed,Cooling fan,2750.0
+WC100305,2026-04-23,UPS-1KVA,UPS1K-2602-42622,2026-02,Plant-Chennai,North,batt not charging after 2 months,Charger module,2618.0
+WC100431,2025-10-09,UPS 1KVA,UPS1K-2509-38436,2025-09,Plant-Chennai,East India,batery not charging,,2639.0
+WC100783,2025-06-09,surge protector,SPD40-2502-48221,2025-02,Plant-Pune,WEST,surge module blown,SPD module,1797.0
+WC100173,2025-10-01,UPS-1KVA,UPS1K-2509-86493,2025-09,Plant-Pune,East India,cap failure on dc bus,DC bus capacitor,2268.0
+WC100285,2026-01-09,UPS 1kVA,UPS1K-2506-04893,2025-06,Plant-Chennai,NORTH,battery not charging,,4595.0
+WC100725,2026-06-05,LV Switchgear Panel,SWGLV-2605-82456,2026-05,Plant-Chennai,West,ACB trip fault,Breaker,49289.0
+WC100241,2026-10-16,UPS-1KVA,UPS1K-2512-06113,2025-12,Plant-Pune,West India,inverter fault E12,,353500.0
+WC100595,2026-07-13,ups 10kva,UPS10K-2603-09861,,Plant-Pune,West India,battery charger fault,Charger module,22200.0
+WC100471,2025-08-11,UPS-1KVA,UPS1K-2505-44747,2025-05,Plant-Chennai,west,inverter fault E12,Inverter PCB,6116.0
+WC100500,2025-11-14,UPS 1kVA,UPS1K-2510-89883,2025-10,Plant-Chennai,west,capacitor leaking,DC bus capacitor,5345.0
+WC100575,2026-01-03,UPS-10KVA,UPS10K-2509-87440,2025-09,Plant-Pune,south,DC bus capacitor bulged,DC bus capacitor,24049.0
+WC100246,2026-05-11,UPS 1KVA,UPS1K-2601-43386,2026-01,Plant-Pune,WEST,no output,,1616.0
+WC100057,2026-07-02,ups 1 kva,UPS1K-2603-37922,2026-03,Plant-Pune,north,FAN FAILURE,,3375.0
+WC100582,2026-07-04,ups 10kva,UPS10K-2602-81315,2026-02,Plant-Pune,East,inverter fault E12,,17521.0
+WC100072,2026-08-19,UPS 1kVA,UPS1K-2606-37136,2026-06,Plant-Pune,North,capacitor leaking,DC bus capacitor,3272.0
+WC100614,2025-11-07,UPS-10KVA,UPS10K-2509-15212,2025-09,Plant-Chennai,north,no output - capacitor failed,DC bus capacitor,35795.0
+WC100146,2026-08-26,ups 1 kva,UPS1K-2604-25608,2026-04,Plant-Pune,south,cooling fan failed,Cooling fan,3462.0
+WC100091,2025-06-02,ups 1 kva,UPS1K-2504-92938,2025-04,Plant-Pune,South,customer complaint - fault,DC bus capacitor,5161.0
+WC100167,2025-08-14,UPS-1KVA,UPS1K-2507-23384,2025-07,Plant-Pune,East India,battery not charging,Charger module,5071.0
+WC100508,2026-02-14,UPS 1kVA,UPS1K-2510-36519,2025-10,Plant-Chennai,West India,cap failure on dc bus,DC bus capacitor,3054.0
+WC100171,2026-02-01,UPS 1kVA,UPS1K-2508-25111,2025-08,Plant-Pune,East,battery not charging,,4043.0
+WC100311,2026-07-04,UPS-1KVA,UPS1K-2604-93528,2026-04,Plant-Chennai,North,batery not charging,Charger module,3140.0
+WC100486,2025-10-21,UPS 1kVA,UPS1K-2508-72353,2025-08,Plant-Chennai,WEST,batt not charging after 2 months,,2840.0
+WC100360,2026-04-26,UPS 1KVA,UPS1K-2507-61542,2025-07,Plant-Chennai,south,battery not charging,Charger module,2763.0
+WC100094,2025-06-08,ups 1 kva,UPS1K-2505-04037,2025-05,Plant-Pune,S,batery not charging,,3396.0
+WC100514,2026-01-08,ups 1 kva,UPS1K-2512-79701,2025-12,Plant-Chennai,WEST,battery charger fault,,3519.0
+WC100716,2026-07-03,LV SWGR panel,SWGLV-2603-82670,2026-03,Plant-Chennai,NORTH,relay malfunction,Protection relay,64473.0
+WC100658,2026-08-08,UPS 10 KVA,UPS10K-2606-30565,2026-06,Plant-Chennai,S,batt not charging after 2 months,,26181.0
+WC100377,2026-01-01,UPS-1KVA,UPS1K-2512-75540,2025-12,Plant-Chennai,South India,inverter card burnt,Inverter PCB,2367.0
+WC100396,2026-05-11,UPS 1KVA,UPS1K-2604-38627,2026-04,Plant-Chennai,South India,FAN FAILURE,Cooling fan,6619.0
+WC100244,2026-02-12,UPS 1KVA,UPS1K-2601-40727,2026-01,Plant-Pune,West,fan not running,,2780.0
+WC100088,2025-07-07,UPS 1kVA,UPS1K-2503-85810,2025-03,Plant-Pune,South India,cooling fan failed,Cooling fan,2750.0
+WC100215,2025-10-08,ups 1 kva,UPS1K-2506-97655,2025-06,Plant-Pune,WEST,FAN FAILURE,Cooling fan,2893.0
+WC100345,2025-10-19,UPS-1KVA,UPS1K-2505-90749,2025-05,Plant-Chennai,south,batt not charging after 2 months,Charger module,5763.0
+WC100174,2025-10-05,ups 1 kva,UPS1K-2509-69823,2025-09,Plant-Pune,E,cap failure on dc bus,DC bus capacitor,3139.0
+WC100702,2026-01-14,UPS-10KVA,UPS10K-2512-11049,2025-12,Plant-Chennai,West,inverter card burnt,Inverter PCB,53714.0
+WC100292,2026-05-25,ups 1 kva,UPS1K-2508-32772,2025-08,Plant-Chennai,NORTH,inverter card burnt,,3514.0
+WC100744,2026-10-05,surge protector,SPD40-2512-31831,2025-12,Plant-Pune,North,surge module blown,SPD module,1932.0
+WC100119,2025-11-14,UPS-1KVA,UPS1K-2508-35844,2025-08,Plant-Pune,S,"capacitr leaking, unit tripped",DC bus capacitor,3297.0
+WC100120,2026-02-20,ups 1 kva,UPS1K-2508-41897,2025-08,Plant-Pune,S,failed,Charger module,1413.0
+WC100164,2025-07-26,UPS 1KVA,UPS1K-2506-71940,2025-06,Plant-Pune,EAST,issue reported,,3811.0
+WC100519,2026-06-21,UPS 1KVA,UPS1K-2512-89103,2025-12,Plant-Chennai,West,batt not charging after 2 months,Charger module,3263.0
+WC100385,2026-09-21,UPS 1KVA,UPS1K-2602-16952,2026-02,Plant-Chennai,south,cooling fan failed,Cooling fan,2341.0
+WC100604,2025-04-01,UPS 10 KVA,UPS10K-2503-46145,2025-03,Plant-Chennai,NORTH,customer complaint - fault,,30981.0
+WC100395,2026-09-22,UPS 1kVA,UPS1K-2603-60641,2026-03,Plant-Chennai,SOUTH ,inverter card burnt,Inverter PCB,2444.0
+WC100402,2026-06-23,UPS-1KVA,UPS1K-2605-79246,2026-05,Plant-Chennai,South India,no output - capacitor failed,DC bus capacitor,3392.0
+WC100405,2026-08-06,UPS 1kVA,UPS1K-2605-56724,2026-05,Plant-Chennai,South India,battery not charging,Charger module,5486.0
+WC100490,2026-04-16,UPS 1kVA,UPS1K-2508-54532,,Plant-Chennai,West India,FAN FAILURE,,3767.0
+WC100506,2026-01-17,UPS 1kVA,UPS1K-2510-42209,2025-10,Plant-Chennai,West,"output unstable, inverter pcb replaced",Inverter PCB,4651.0
+WC100163,2025-07-01,UPS-1KVA,UPS1K-2505-78324,2025-05,Plant-Pune,East India,battery charger fault,Charger module,2695.0
+WC100321,2025-02-02,ups 1 kva,UPS1K-2501-71152,2025-01,Plant-Chennai,South India,unit dead,,1903.0
+WC100115,2025-09-21,UPS 1kVA,UPS1K-2508-68078,2025-08,Plant-Pune,South,battery charger fault,Charger module,3872.0
+WC100159,2025-12-19,UPS-1KVA,UPS1K-2502-30104,2025-02,Plant-Pune,E,LCD not working,Display unit,3478.0
+WC100151,2026-10-03,UPS 1KVA,UPS1K-2605-21966,2026-05,Plant-Pune,SOUTH ,unit dead,,5281.0
+WC100447,2026-07-27,UPS-1KVA,UPS1K-2606-70675,2026-06,Plant-Chennai,EAST,FAN FAILURE,,5854.0
+WC100701,2026-01-25,ups 10kva,UPS10K-2512-05941,2025-12,Plant-Chennai,west,failed,Display unit,38366.0
+WC100607,2025-12-01,UPS 10 KVA,UPS10K-2505-19678,2025-05,Plant-Chennai,NORTH,battery charger fault,Charger module,33857.0
+WC100369,2025-11-12,UPS 1kVA,UPS1K-2510-54448,2025-10,Plant-Chennai,South India,inverter fault E12,Inverter PCB,2848.0
+WC100032,2026-01-18,UPS 1KVA,UPS1K-2509-78312,2025-09,Plant-Pune,North India,"output unstable, inverter pcb replaced",,6092.0
+WC100378,2026-04-09,UPS 1KVA,UPS1K-2512-57122,2025-12,Plant-Chennai,south,"output unstable, inverter pcb replaced",Inverter PCB,2747.0
+WC100755,2025-05-26,SPD-40,SPD40-2503-38013,2025-03,Plant-Pune,south,indicator not working,Indicator,1050.0
+WC100021,2026-03-18,UPS-1KVA,UPS1K-2506-64667,,Plant-Pune,NORTH,DC bus capacitor bulged,DC bus capacitor,2777.0
+WC100114,2026-02-09,UPS-1KVA,UPS1K-2507-13764,2025-07,Plant-Pune,South India,batery not charging,Charger module,3615.0
+WC100708,2026-06-02,UPS 10 KVA,UPS10K-2605-60250,2026-05,Plant-Chennai,West,inverter board fault,,16759.0
+WC100001,2025-02-18,ups 1 kva,UPS1K-2501-85844,2025-01,Plant-Pune,North,cooling fan failed,,3160.0
+WC100450,2025-03-27,UPS-1KVA,UPS1K-2501-61699,2025-01,Plant-Chennai,W,battery not charging,Charger module,4879.0
+WC100696,2026-02-12,UPS-10KVA,UPS10K-2509-59615,2025-09,Plant-Chennai,West India,cap failure on dc bus,DC bus capacitor,45323.0
+WC100781,2025-09-03,Surge Protection Device,SPD40-2501-76434,2025-01,Plant-Pune,West India,issue reported,Housing,1155.0
+WC100453,2025-06-22,UPS-1KVA,UPS1K-2501-50773,2025-01,Plant-Chennai,West India,unit dead,,1769.0
+WC100688,2025-12-13,UPS-10KVA,UPS10K-2508-88989,2025-08,Plant-Chennai,West India,unit not working,DC bus capacitor,35389.0
+WC100546,2026-10-08,UPS 1KVA,UPS1K-2606-73120,2026-06,Plant-Chennai,west,"capacitr leaking, unit tripped",DC bus capacitor,-3317.0
+WC100259,2026-08-10,UPS 1KVA,UPS1K-2604-35477,2026-04,Plant-Pune,west,fan not running,,4242.0
+WC100794,2026-04-06,surge protector,SPD40-2512-98061,2025-12,Plant-Pune,WEST,indicator window red,Indicator,1215.0
+WC100315,14/07/2026,UPS 1kVA,UPS1K-2606-91153,2026-06,Plant-Chennai,NORTH,capacitor leaking,DC bus capacitor,2659.0
+WC100694,2025-12-03,UPS 10kVA,UPS10K-2509-61618,2025-09,Plant-Chennai,West,cap failure on dc bus,DC bus capacitor,47898.0
+WC100136,2026-04-13,UPS 1KVA,UPS1K-2602-88335,2026-02,Plant-Pune,South,bulged cap found,DC bus capacitor,3506.0
+WC100611,2026-03-06,UPS 10 KVA,UPS10K-2508-45922,2025-08,,North India,capacitor leaking,DC bus capacitor,45667.0
+WC100005,2025-06-12,UPS-1KVA,UPS1K-2501-07836,2025-01,Plant-Pune,North,FAN FAILURE,Cooling fan,2982.0
+WC100494,2025-11-19,UPS-1KVA,UPS1K-2509-56895,2025-09,Plant-Chennai,west,batt not charging after 2 months,Charger module,2091.0
+WC100325,2025-12-21,UPS 1KVA,UPS1K-2501-78545,2025-01,Plant-Chennai,South India,battery not charging,Charger module,4795.0
+WC100331,2025-08-06,ups 1 kva,UPS1K-2502-60000,2025-02,Plant-Chennai,south,cooling fan failed,Cooling fan,3228.0
+WC100448,2026-08-23,ups 1 kva,UPS1K-2606-70261,2026-06,,East India,inverter fault E12,,3744.0
+WC100502,2025-11-09,UPS 1KVA,UPS1K-2510-25553,2025-10,Plant-Chennai,West India,batery not charging,,2185.0
+WC100340,2025-06-07,UPS 1kVA,UPS1K-2505-59118,2025-05,Plant-Chennai,SOUTH ,"output unstable, inverter pcb replaced",Inverter PCB,5254.0
+WC100298,03/01/2026,UPS 1KVA,UPS1K-2512-17523,2025-12,Plant-Chennai,north,battery charger fault,,4225.0
+WC100081,2025-07-11,UPS 1KVA,UPS1K-2501-88188,2025-01,Plant-Pune,south,battery not charging,,3891.0
+WC100653,2026-10-16,UPS 10kVA,UPS10K-2604-04505,2026-04,Plant-Chennai,South,"output unstable, inverter pcb replaced",Inverter PCB,33658.0
+WC100027,2025-10-12,ups 1 kva,UPS1K-2507-80245,2025-07,Plant-Pune,north,battery not charging,Charger module,2245.0
+WC100535,2026-09-10,ups 1 kva,UPS1K-2604-65401,2026-04,Plant-Chennai,West India,batery not charging,Charger module,4466.0
+WC100217,2025-10-22,UPS 1kVA,UPS1K-2506-33981,2025-06,Plant-Pune,WEST,cooling fan failed,Cooling fan,5754.0
+WC100610,2025-11-25,UPS 10kVA,UPS10K-2508-27427,2025-08,Plant-Chennai,north,DC bus capacitor bulged,DC bus capacitor,29176.0
+WC100344,2025-09-08,UPS-1KVA,UPS1K-2505-17765,2025-05,Plant-Chennai,South India,not working,DC bus capacitor,2260.0
+WC100505,2025-12-11,UPS 1kVA,UPS1K-2510-27737,2025-10,Plant-Chennai,West,inverter card burnt,Inverter PCB,3184.0
+WC100294,2026-01-10,UPS 1KVA,UPS1K-2509-52785,2025-09,Plant-Chennai,N,"capacitr leaking, unit tripped",DC bus capacitor,2889.0
+WC100365,2026-01-11,UPS 1kVA,UPS1K-2509-91369,2025-09,Plant-Chennai,South,inverter fault E12,Inverter PCB,4265.0
+WC100046,2026-05-14,UPS 1kVA,UPS1K-2512-69859,2025-12,Plant-Pune,North India,inverter fault E12,Inverter PCB,3677.0
+WC100148,2026-09-23,UPS 1kVA,UPS1K-2604-36992,2026-04,Plant-Pune,south,fan noise and stopped,Cooling fan,4485.0
+WC100015,2025-08-15,UPS 1kVA,UPS1K-2505-36344,2025-05,Plant-Pune,North,batery not charging,Charger module,4350.0
+WC100175,2025-12-04,UPS 1kVA,UPS1K-2509-67687,2025-09,Plant-Pune,E,fan noise and stopped,Cooling fan,2535.0
+WC100087,2025-04-04,UPS 1kVA,UPS1K-2503-82367,2025-03,Plant-Pune,S,cooling fan failed,Cooling fan,5418.0
+WC100371,2025-11-02,UPS 1kVA,UPS1K-2510-30506,2025-10,Plant-Chennai,S,inverter board fault,,3294.0
+WC100166,2026-01-15,UPS-1KVA,UPS1K-2506-87664,2025-06,Plant-Pune,East India,inverter card burnt,Inverter PCB,5561.0
+WC100722,2025-10-20,Switchgear LV,SWGLV-2504-41727,2025-04,Plant-Chennai,west,relay malfunction,Protection relay,72149.0
+WC100336,2025-05-06,UPS-1KVA,UPS1K-2504-29344,2025-04,Plant-Chennai,south,no output,,4136.0
+WC100060,2026-06-16,ups 1 kva,UPS1K-2604-34105,2026-04,Plant-Pune,NORTH,LCD not working,Display unit,3278.0
+WC100710,2026-07-16,UPS-10KVA,UPS10K-2605-66042,2026-05,Plant-Chennai,West,customer complaint - fault,Charger module,25728.0
+WC100542,2026-07-15,UPS 1KVA,UPS1K-2606-42056,2026-06,Plant-Chennai,W,battery not charging,Charger module,4266.0
+WC100165,2025-10-19,UPS-1KVA,UPS1K-2506-12278,2025-06,Plant-Pune,EAST,inverter card burnt,,5780.0
+WC100355,2025-09-15,ups 1 kva,UPS1K-2507-67120,,Plant-Chennai,South,ups not giving output,,3017.0
+WC100625,2026-05-26,UPS-10KVA,UPS10K-2604-00071,2026-04,Plant-Chennai,north,fan noise and stopped,,33772.0
+WC100425,2025-07-24,UPS-1KVA,UPS1K-2504-70467,2025-04,Plant-Chennai,East,FAN FAILURE,Cooling fan,3278.0
+WC100293,2025-11-08,UPS-1KVA,UPS1K-2509-54278,2025-09,Plant-Chennai,NORTH,ups not giving output,,3148.0
+WC100042,2026-01-08,UPS-1KVA,UPS1K-2511-60890,2025-11,Plant-Pune,N,batery not charging,Charger module,3618.0
+WC100362,2025-11-04,UPS 1kVA,UPS1K-2508-85589,2025-08,Plant-Chennai,S,fan noise and stopped,,4391.0
+WC100330,2025-05-11,UPS 1KVA,UPS1K-2502-91272,2025-02,Plant-Chennai,South,unit dead,,4531.0
+WC100557,2026-01-19,UPS-10KVA,UPS10K-2511-75531,2025-11,Plant-Pune,N,issue reported,Display unit,32832.0
+WC100430,2026-03-21,UPS-1KVA,UPS1K-2508-68569,2025-08,Plant-Chennai,E,fan noise and stopped,Cooling fan,2667.0
+WC100080,2025-05-19,UPS 1KVA,UPS1K-2501-84632,2025-01,Plant-Pune,S,batery not charging,Charger module,2531.0
+WC100638,2025-12-27,UPS-10KVA,UPS10K-2508-39065,2025-08,Plant-Chennai,South,no output - capacitor failed,,48767.0
+WC100029,2025-10-02,UPS 1KVA,UPS1K-2508-48855,2025-08,,North India,fan not running,Cooling fan,2760.0
+WC100426,2025-09-26,ups 1 kva,UPS1K-2505-22731,2025-05,Plant-Chennai,east,display error code,Display unit,4423.0
+WC100615,2025-12-10,ups 10kva,UPS10K-2509-79914,2025-09,,NORTH,not working,DC bus capacitor,48235.0
+WC100550,2026-02-08,UPS-10KVA,UPS10K-2504-09387,2025-04,Plant-Pune,North,capacitor leaking,,22266.0
+WC100718,2026-07-09,LV SWGR panel,SWGLV-2605-09969,2026-05,Plant-Chennai,North India,contactor chattering,,60322.0
+WC100323,2025-04-12,ups 1 kva,UPS1K-2501-45760,2025-01,Plant-Chennai,South India,inverter fault E12,,2666.0
+WC100238,2026-03-03,UPS 1KVA,UPS1K-2511-16381,2025-11,Plant-Pune,W,LCD not working,Display unit,2564.0
+WC100379,2026-06-07,UPS 1kVA,UPS1K-2512-60916,2025-12,Plant-Chennai,S,fan not running,Cooling fan,6041.0
+WC100255,2026-05-09,UPS 1kVA,UPS1K-2603-74587,2026-03,Plant-Pune,WEST,issue reported,,4146.0
+WC100612,2026-07-10,UPS-10KVA,UPS10K-2508-35849,2025-08,Plant-Chennai,NORTH,failed,DC bus capacitor,32296.0
+WC100459,2025-04-05,ups 1 kva,UPS1K-2503-68100,2025-03,Plant-Chennai,WEST,cooling fan failed,Cooling fan,6310.0
+WC100460,2025-06-15,UPS 1KVA,UPS1K-2503-55585,2025-03,Plant-Chennai,west,battery not charging,Charger module,4177.0
+WC100384,15/04/2026,UPS 1kVA,UPS1K-2602-91203,2026-02,Plant-Chennai,South India,inverter board fault,Inverter PCB,1983.0
+WC100314,2026-10-17,ups 1 kva,UPS1K-2605-24740,2026-05,Plant-Chennai,NORTH,inverter card burnt,Inverter PCB,5590.0
+WC100085,2025-05-27,UPS-1KVA,UPS1K-2502-41852,2025-02,Plant-Pune,South India,cooling fan failed,Cooling fan,2087.0
+WC100063,2026-08-18,UPS-1KVA,UPS1K-2604-62403,2026-04,Plant-Pune,NORTH,display error code,,4963.0
+WC100709,2026-07-26,UPS-10KVA,UPS10K-2605-82568,2026-05,Plant-Chennai,West,inverter card burnt,Inverter PCB,29431.0
+WC100137,2026-05-19,ups 1 kva,UPS1K-2602-86370,2026-02,Plant-Pune,S,batery not charging,Charger module,4015.0
+WC100112,2026-01-02,UPS 1KVA,UPS1K-2507-92435,2025-07,Plant-Pune,SOUTH ,battery charger fault,Charger module,4882.0
+WC100195,2025-02-07,ups 1 kva,UPS1K-2501-67724,2025-01,Plant-Pune,WEST,unit dead,,3208.0
+WC100341,2025-07-07,UPS 1KVA,UPS1K-2505-07269,2025-05,Plant-Chennai,South India,battery charger fault,,1864.0
+WC100179,2026-06-17,UPS 1kVA,UPS1K-2511-79402,2025-11,Plant-Pune,East India,LCD not working,,3406.0
+WC100497,2025-08-12,UPS 1KVA,UPS1K-2509-62311,2025-09,Plant-Chennai,WEST,cooling fan failed,Cooling fan,2144.0
+WC100130,2026-02-05,UPS 1kVA,UPS1K-2512-93092,2025-12,Plant-Pune,South,"capacitr leaking, unit tripped",DC bus capacitor,2598.0
+WC100338,2025-08-27,UPS-1KVA,UPS1K-2504-64992,2025-04,Plant-Chennai,S,battery charger fault,Charger module,4027.0
+WC100125,2025-11-24,UPS 1KVA,UPS1K-2510-54798,2025-10,Plant-Pune,SOUTH ,unit dead,,5337.0
+WC100782,2025-03-24,SPD 40kA,SPD40-2502-06940,2025-02,Plant-Pune,West India,not working,SPD module,1684.0
+WC100227,2025-06-11,UPS-1KVA,UPS1K-2507-83043,2025-07,Plant-Pune,West India,inverter fault E12,,2711.0
+WC100269,2025-04-20,ups 1 kva,UPS1K-2502-96976,2025-02,Plant-Chennai,north,FAN FAILURE,Cooling fan,4219.0
+WC100796,2026-05-05,SPD-40,SPD40-2602-84096,,Plant-Pune,West,body damaged on arrival,,1612.0
+WC100104,2025-11-16,ups 1 kva,UPS1K-2506-31964,2025-06,Plant-Pune,South India,cooling fan failed,Cooling fan,3822.0
+WC100700,2026-06-02,UPS 10kVA,UPS10K-2511-03291,2025-11,Plant-Chennai,West,capacitor leaking,DC bus capacitor,18262.0
+WC100228,2026-01-17,UPS 1kVA,UPS1K-2507-15405,2025-07,Plant-Pune,WEST,no output - capacitor failed,,0.0
+WC100724,2026-01-15,LV SWGR panel,SWGLV-2505-11607,2025-05,Plant-Chennai,West,breaker nuisance trip,,49559.0
+WC100302,2026-07-05,ups 1 kva,UPS1K-2512-18003,2025-12,Plant-Chennai,north,battery charger fault,Charger module,3828.0
+WC100276,2025-09-20,UPS 1KVA,UPS1K-2504-88183,2025-04,Plant-Chennai,NORTH,batery not charging,Charger module,5202.0
+WC100127,2026-05-07,ups 1 kva,UPS1K-2510-02735,2025-10,Plant-Pune,south,batt not charging after 2 months,Charger module,2925.0
+WC100406,2026-09-15,UPS 1kVA,UPS1K-2605-38468,2026-05,Plant-Chennai,S,batery not charging,Charger module,4852.0
+WC100729,2025-04-23,SPD-40,SPD40-2502-94448,2025-02,Plant-Pune,north,failed,SPD module,1109.0
+WC100037,2026-05-24,UPS 1kVA,UPS1K-2510-54929,2025-10,Plant-Pune,north,inverter board fault,,3473.0
+WC100140,2026-04-02,UPS 1KVA,UPS1K-2603-67083,2026-03,Plant-Pune,S,DC bus capacitor bulged,DC bus capacitor,3590.0
+WC100304,2026-03-19,UPS 1KVA,UPS1K-2601-04532,2026-01,Plant-Chennai,NORTH,no output - capacitor failed,DC bus capacitor,3717.0
+WC100268,2025-04-23,ups 1 kva,UPS1K-2502-35299,2025-02,Plant-Chennai,north,LCD not working,Display unit,4486.0
+WC100534,2026-06-07,ups 1 kva,UPS1K-2604-47942,2026-04,Plant-Chennai,west,ups not giving output,,1928.0
+WC100213,2026-01-24,UPS 1kVA,UPS1K-2504-62055,2025-04,Plant-Pune,WEST,no output - capacitor failed,DC bus capacitor,2861.0
+WC100469,2025-07-03,UPS-1KVA,UPS1K-2505-88068,2025-05,Plant-Chennai,west,customer complaint - fault,,3599.0
+WC100199,2025-04-19,ups 1 kva,UPS1K-2502-42159,2025-02,Plant-Pune,WEST,"output unstable, inverter pcb replaced",Inverter PCB,-4261.0
+WC100528,2026-06-15,UPS-1KVA,UPS1K-2602-23780,2026-02,Plant-Chennai,W,batery not charging,Charger module,4211.0
+WC100719,2026-06-22,Switchgear LV,SWGLV-2508-63715,2025-08,Plant-Chennai,S,contactor chattering,,27708.0
+WC100242,2026-02-14,UPS 1kVA,UPS1K-2601-24767,2026-01,Plant-Pune,West India,batt not charging after 2 months,,3645.0
+WC100343,11/09/2025,ups 1 kva,UPS1K-2505-23750,,Plant-Chennai,South,batt not charging after 2 months,Charger module,1940.0
+WC100387,2026-04-19,UPS 1KVA,UPS1K-2603-22178,2026-03,Plant-Chennai,South,FAN FAILURE,,3626.0
+WC100798,2026-10-26,SPD-40,SPD40-2603-12188,2026-03,Plant-Pune,West India,spd status red,SPD module,1220.0
+WC100207,2025-06-13,UPS 1kVA,UPS1K-2504-98459,2025-04,Plant-Pune,west,no output - capacitor failed,DC bus capacitor,4686.0
+WC100296,2026-01-06,UPS 1kVA,UPS1K-2511-99680,2025-11,Plant-Chennai,NORTH,display error code,Display unit,3424.0
+WC100628,2025-04-04,UPS 10kVA,UPS10K-2501-91526,2025-01,Plant-Chennai,SOUTH ,FAN FAILURE,Cooling fan,20402.0
+WC100074,2026-10-19,UPS-1KVA,UPS1K-2606-84035,2026-06,Plant-Pune,North India,batt not charging after 2 months,Charger module,2752.0
+WC100105,2025-11-23,ups 1 kva,UPS1K-2506-18862,2025-06,Plant-Pune,South India,display blank,Display unit,4948.0
+WC100581,2026-06-26,ups 10kva,UPS10K-2512-97232,2025-12,Plant-Pune,E,inverter card burnt,,40253.0
+WC100785,2025-07-01,Surge Protection Device,SPD40-2503-05507,2025-03,Plant-Pune,west,surge module blown,SPD module,1123.0
+WC100017,2025-10-04,UPS 1kVA,UPS1K-2505-68937,2025-05,Plant-Pune,north,no output - capacitor failed,DC bus capacitor,3014.0
+WC100440,2026-05-24,UPS-1KVA,UPS1K-2602-61963,2026-02,Plant-Chennai,East India,customer complaint - fault,,2846.0
+WC100092,2025-08-12,ups 1 kva,UPS1K-2504-49432,2025-04,Plant-Pune,SOUTH ,bulged cap found,DC bus capacitor,5703.0
+WC100089,2025-08-14,UPS-1KVA,UPS1K-2503-52506,2025-03,Plant-Pune,South,panel display dead,Display unit,3372.0
+WC100451,2025-03-14,ups 1 kva,UPS1K-2501-61902,2025-01,Plant-Chennai,west,failed,,9214.0
+WC100103,2025-09-01,UPS-1KVA,UPS1K-2506-32940,2025-06,Plant-Pune,S,bulged cap found,DC bus capacitor,4094.0
+WC100239,2026-01-04,UPS 1KVA,UPS1K-2512-59253,2025-12,Plant-Pune,West,inverter card burnt,Inverter PCB,4862.0
+WC100681,2025-09-11,UPS 10 KVA,UPS10K-2508-62271,2025-08,Plant-Chennai,WEST,not working,DC bus capacitor,32560.0
+WC100247,2026-09-06,ups 1 kva,UPS1K-2601-55658,2026-01,Plant-Pune,West,battery not charging,Charger module,3743.0
+WC100786,2025-09-14,SPD 40kA,SPD40-2504-56388,2025-04,Plant-Pune,WEST,surge module blown,SPD module,3967.0
+WC100158,2025-09-09,UPS-1KVA,UPS1K-2502-06848,2025-02,Plant-Pune,E,display blank,Display unit,4092.0
+WC100480,2026-02-27,UPS 1kVA,UPS1K-2507-28709,2025-07,Plant-Chennai,West,"output unstable, inverter pcb replaced",,5089.0
+WC100692,2025-10-13,UPS 10 KVA,UPS10K-2509-15793,2025-09,Plant-Chennai,W,customer complaint - fault,,40591.0
+WC100673,2025-05-03,UPS-10KVA,UPS10K-2503-62860,2025-03,Plant-Chennai,West,capacitor leaking,,15835.0
+WC100019,2025-11-07,UPS-1KVA,UPS1K-2506-36198,2025-06,Plant-Pune,north,unit not working,,4042.0
+WC100579,2025-12-08,UPS 10 KVA,UPS10K-2510-06501,2025-10,Plant-Pune,EAST,fan noise and stopped,,28063.0
+WC100122,2025-10-09,UPS-1KVA,UPS1K-2509-50237,2025-09,Plant-Pune,South India,no output,,3383.0
+WC100578,2025-10-21,UPS 10 KVA,UPS10K-2506-22036,2025-06,Plant-Pune,EAST,battery charger fault,Charger module,28025.0
+WC100275,2025-06-15,UPS 1kVA,UPS1K-2504-03554,2025-04,Plant-Chennai,North,not working,,3763.0
+WC100434,2026-01-12,ups 1 kva,UPS1K-2509-80911,,Plant-Chennai,east,customer complaint - fault,,3185.0
+WC100733,2025-06-04,surge protector,SPD40-2505-11251,2025-05,Plant-Pune,N,SPD module failed,SPD module,965.0
+WC100312,2026-08-23,ups 1 kva,UPS1K-2604-26100,2026-04,Plant-Chennai,North,FAN FAILURE,,2505.0
+WC100620,2026-02-13,ups 10kva,UPS10K-2512-98342,2025-12,Plant-Chennai,N,battery not charging,,59984.0
+WC100683,2025-10-11,UPS 10 KVA,UPS10K-2508-01931,2025-08,Plant-Chennai,West,capacitor leaking,DC bus capacitor,20965.0
+WC100547,2025-03-26,UPS-10KVA,UPS10K-2501-36221,2025-01,Plant-Pune,north,not working,Cooling fan,15687.0
+WC100182,2026-05-11,UPS 1KVA,UPS1K-2601-49194,2026-01,Plant-Pune,East,battery charger fault,Charger module,5242.0
+WC100185,2026-06-02,UPS 1kVA,UPS1K-2603-04328,2026-03,Plant-Pune,East India,battery not charging,Charger module,4831.0
+WC100407,2026-07-18,UPS 1kVA,UPS1K-2606-71764,2026-06,Plant-Chennai,South,customer complaint - fault,Inverter PCB,2331.0
+WC100521,2026-09-03,UPS 1KVA,UPS1K-2512-32592,2025-12,Plant-Chennai,West,"capacitr leaking, unit tripped",DC bus capacitor,5504.0
+WC100381,2026-04-20,ups 1 kva,UPS1K-2601-15594,2026-01,Plant-Chennai,south,battery not charging,,3466.0
+WC100411,2026-09-23,ups 1 kva,UPS1K-2606-33277,2026-06,Plant-Chennai,S,failed,DC bus capacitor,3690.0
+WC100370,2025-11-18,ups 1 kva,UPS1K-2510-90495,2025-10,Plant-Chennai,SOUTH ,display blank,,3810.0
+WC100665,2026-04-27,UPS 10 KVA,UPS10K-2509-06569,2025-09,Plant-Chennai,East India,customer complaint - fault,DC bus capacitor,48861.0
+WC100137,2026-05-19,ups 1 kva,UPS1K-2602-86370,2026-02,Plant-Pune,S,batery not charging,Charger module,4015.0
+WC100079,2025-04-02,UPS 1KVA,UPS1K-2501-20840,2025-01,Plant-Pune,South,LCD not working,,2535.0
+WC100574,2025-10-07,ups 10kva,UPS10K-2509-09085,2025-09,Plant-Pune,S,batery not charging,,27615.0
+WC100650,2026-08-04,UPS 10 KVA,UPS10K-2603-37676,2026-03,Plant-Chennai,SOUTH ,inverter card burnt,Inverter PCB,32499.0
+WC100504,2025-12-15,UPS 1kVA,UPS1K-2510-51938,2025-10,Plant-Chennai,West,display blank,Display unit,4248.0
+WC100717,2026-06-16,LV Switchgear Panel,SWGLV-2605-90303,2026-05,Plant-Chennai,North India,breaker tripping without load,Breaker,52267.0
+WC100754,2025-06-08,SPD-40,SPD40-2502-98187,2025-02,Plant-Pune,S,surge module blown,SPD module,902.0
+WC100417,2026-01-20,UPS-1KVA,UPS1K-2502-20663,2025-02,Plant-Chennai,East India,inverter board fault,Inverter PCB,5378.0
+WC100775,2026-08-16,SPD-40,SPD40-2601-73978,2026-01,Plant-Pune,east,SPD module failed,SPD module,2217.0
+WC100562,2026-08-02,UPS 10kVA,UPS10K-2603-19797,2026-03,Plant-Pune,N,fan not running,,32107.0
+WC100068,2026-10-20,UPS-1KVA,UPS1K-2605-57787,2026-05,Plant-Pune,north,battery charger fault,Charger module,3506.0
+WC100537,2026-06-16,ups 1 kva,UPS1K-2605-78706,2026-05,Plant-Chennai,West,inverter fault E12,Inverter PCB,2367.0
+WC100078,2025-04-22,UPS 1KVA,UPS1K-2501-47745,2025-01,Plant-Pune,S,inverter card burnt,,2904.0
+WC100106,2026-01-22,UPS 1kVA,UPS1K-2506-01254,2025-06,Plant-Pune,South,batery not charging,Charger module,4723.0
+WC100591,20/10/2025,UPS 10 KVA,UPS10K-2507-15903,2025-07,Plant-Pune,west,bulged cap found,DC bus capacitor,26474.0
+WC100734,2025-09-26,SPD 40kA,SPD40-2505-87790,2025-05,Plant-Pune,North,status indicator fault,Indicator,2953.0
+WC100560,07/06/2026,UPS-10KVA,UPS10K-2603-77711,2026-03,Plant-Pune,North India,fan not running,Cooling fan,36121.0
+WC100715,2026-01-06,LV Switchgear Panel,SWGLV-2510-63067,2025-10,Plant-Chennai,N,protection relay fault,,25542.0
+WC100774,2026-07-26,surge protector,SPD40-2601-46650,,Plant-Pune,East,surge module blown,,2709.0
+WC100635,2025-11-12,UPS-10KVA,UPS10K-2507-91421,2025-07,Plant-Chennai,South India,ups not giving output,,40173.0
+WC100491,2025-10-05,UPS-1KVA,UPS1K-2509-62947,2025-09,Plant-Chennai,West,display error code,Display unit,4558.0
+WC100711,2026-07-20,ups 10kva,UPS10K-2606-35538,2026-06,Plant-Chennai,WEST,batt not charging after 2 months,Charger module,49964.0
+WC100691,2025-10-08,UPS-10KVA,UPS10K-2509-69741,2025-09,,West,DC bus capacitor bulged,DC bus capacitor,42227.0
+WC100606,2025-06-20,ups 10kva,UPS10K-2505-20264,2025-05,Plant-Chennai,N,cap failure on dc bus,DC bus capacitor,44606.0
+WC100364,2025-10-02,UPS 1KVA,UPS1K-2509-46321,2025-09,Plant-Chennai,South,inverter board fault,,3834.0
+WC100070,2026-08-03,ups 1 kva,UPS1K-2606-61169,2026-06,Plant-Pune,NORTH,no output,,4279.0
+WC100549,2025-09-15,UPS 10kVA,UPS10K-2503-85938,2025-03,Plant-Pune,NORTH,inverter board fault,,31961.0
+WC100161,2025-05-14,ups 1 kva,UPS1K-2504-91183,2025-04,Plant-Pune,EAST,customer complaint - fault,Inverter PCB,2651.0
+WC100012,2025-12-01,UPS-1KVA,UPS1K-2503-66318,2025-03,Plant-Pune,NORTH,cooling fan failed,Cooling fan,4574.0
+WC100145,2026-07-10,UPS-1KVA,UPS1K-2604-23634,2026-04,Plant-Pune,South,inverter card burnt,Inverter PCB,7138.0
+WC100518,2026-06-06,ups 1 kva,UPS1K-2512-11979,2025-12,Plant-Chennai,west,battery not charging,,3316.0
+WC100428,2025-09-25,UPS 1KVA,UPS1K-2508-29879,2025-08,Plant-Chennai,East India,battery not charging,Charger module,3283.0
+WC100177,2026-01-08,UPS 1KVA,UPS1K-2511-33550,2025-11,Plant-Pune,E,cooling fan failed,,2926.0
+WC100441,2026-04-11,UPS-1KVA,UPS1K-2603-50983,2026-03,Plant-Chennai,EAST,batery not charging,Charger module,3844.0
+WC100522,2026-02-07,UPS 1KVA,UPS1K-2601-92959,2026-01,Plant-Chennai,West,battery not charging,Charger module,4724.0
+WC100713,2026-09-02,UPS 10 KVA,UPS10K-2606-41847,2026-06,Plant-Chennai,West India,battery charger fault,,28704.0
+WC100769,2026-10-09,SPD 40kA,SPD40-2604-88179,2026-04,Plant-Pune,SOUTH ,SPD module failed,SPD module,2086.0
+WC100232,2025-10-11,UPS-1KVA,UPS1K-2508-71778,2025-08,Plant-Pune,W,battery not charging,Charger module,4719.0
+WC100211,2025-12-02,UPS 1KVA,UPS1K-2504-60489,2025-04,Plant-Pune,W,fan not running,,4886.0
+WC100144,2026-05-16,UPS-1KVA,UPS1K-2604-79950,2026-04,Plant-Pune,South,batt not charging after 2 months,,5271.0
+WC100520,2026-08-17,ups 1 kva,UPS1K-2512-92323,2025-12,Plant-Chennai,West,battery charger fault,Charger module,3165.0
+WC100795,2026-04-18,surge protector,SPD40-2602-55276,2026-02,Plant-Pune,West,spd status red,,1395.0
+WC100299,2026-01-09,UPS 1KVA,UPS1K-2512-46536,,Plant-Chennai,N,"capacitr leaking, unit tripped",DC bus capacitor,4048.0
+WC100429,2026-01-02,UPS-1KVA,UPS1K-2508-43473,2025-08,Plant-Chennai,EAST,unit not working,,2391.0
+WC100613,2025-10-16,UPS 10 KVA,UPS10K-2509-98312,2025-09,Plant-Chennai,North India,cap failure on dc bus,,25300.0
+WC100757,2025-08-22,surge protector,SPD40-2505-90837,2025-05,Plant-Pune,South India,housing cracked,,1929.0
+WC100009,2025-04-07,UPS 1KVA,UPS1K-2503-78704,2025-03,Plant-Pune,N,"capacitr leaking, unit tripped",DC bus capacitor,3268.0
+WC100157,2025-04-12,UPS 1kVA,UPS1K-2502-63167,2025-02,Plant-Pune,east,battery charger fault,Charger module,6282.0
+WC100540,2026-09-08,UPS 1KVA,UPS1K-2605-06961,2026-05,Plant-Chennai,West,inverter fault E12,,6913.0
+WC100507,2026-02-12,UPS 1KVA,UPS1K-2510-17914,2025-10,Plant-Chennai,west,no o/p from ups,,3124.0
+WC100437,2026-05-26,UPS 1KVA,UPS1K-2601-68329,2026-01,Plant-Chennai,E,batery not charging,,2842.0
+WC100267,2025-10-09,UPS-1KVA,UPS1K-2501-33933,2025-01,Plant-Chennai,north,failed,Charger module,2239.0
+WC100462,2025-08-12,UPS-1KVA,UPS1K-2503-51709,2025-03,Plant-Chennai,West India,battery not charging,,2129.0
+WC100577,2025-12-05,ups 10kva,UPS10K-2510-69217,2025-10,Plant-Pune,S,display error code,Display unit,19167.0
+WC100339,2025-09-06,UPS-1KVA,UPS1K-2504-29097,2025-04,Plant-Chennai,south,display blank,Display unit,2998.0
+WC100256,2026-06-23,UPS 1KVA,UPS1K-2603-06924,2026-03,Plant-Pune,West,"output unstable, inverter pcb replaced",Inverter PCB,5833.0
+WC100660,2025-08-09,ups 10kva,UPS10K-2507-43873,2025-07,Plant-Chennai,EAST,battery charger fault,Charger module,37603.0
+WC100697,2025-12-01,UPS 10kVA,UPS10K-2510-10330,2025-10,Plant-Chennai,west,unit not working,DC bus capacitor,53001.0
+WC100561,2026-08-20,ups 10kva,UPS10K-2603-22532,2026-03,Plant-Pune,N,display blank,Display unit,54172.0
+WC100209,2025-07-04,ups 1 kva,UPS1K-2504-16723,2025-04,Plant-Pune,West India,cooling fan failed,,4801.0
+WC100288,2025-09-21,UPS-1KVA,UPS1K-2507-92671,2025-07,Plant-Chennai,north,ups not giving output,,-5543.0
+WC100002,2025-03-09,UPS 1kVA,UPS1K-2501-33881,2025-01,Plant-Pune,north,inverter card burnt,,2823.0
+WC100342,2025-08-04,ups 1 kva,UPS1K-2505-56260,2025-05,Plant-Chennai,S,issue reported,DC bus capacitor,4889.0
+WC100270,2025-06-07,UPS-1KVA,UPS1K-2502-29198,2025-02,Plant-Chennai,N,inverter board fault,Inverter PCB,2198.0
+WC100266,2025-02-12,UPS-1KVA,UPS1K-2501-32677,2025-01,Plant-Chennai,North India,cooling fan failed,Cooling fan,2851.0
+WC100668,2026-02-10,UPS-10KVA,UPS10K-2601-48366,2026-01,Plant-Chennai,east,cooling fan failed,Cooling fan,50855.0
+WC100672,2025-06-06,UPS 10 KVA,UPS10K-2502-50754,2025-02,Plant-Chennai,West,display error code,Display unit,36135.0
+WC100096,2025-07-22,UPS 1kVA,UPS1K-2505-31455,2025-05,Plant-Pune,South India,"output unstable, inverter pcb replaced",Inverter PCB,1925.0
+WC100791,2025-12-27,SPD 40kA,SPD40-2510-04668,2025-10,Plant-Pune,west,spd status red,,2075.0
+WC100043,2026-07-24,ups 1 kva,UPS1K-2511-03291,2025-11,Plant-Pune,NORTH,battery not charging,Charger module,6840.0
+WC100659,2025-09-13,UPS-10KVA,UPS10K-2504-45112,2025-04,Plant-Chennai,East,batt not charging after 2 months,,28021.0
+WC100758,2026-04-24,SPD 40kA,SPD40-2507-87970,2025-07,Plant-Pune,South,spd status red,SPD module,1652.0
+WC100682,2025-09-26,ups 10kva,UPS10K-2508-84433,2025-08,Plant-Chennai,W,issue reported,DC bus capacitor,35119.0
+WC100629,2025-05-19,UPS 10kVA,UPS10K-2501-99366,2025-01,Plant-Chennai,south,cooling fan failed,Cooling fan,19971.0
+WC100046,2026-05-14,UPS 1kVA,UPS1K-2512-69859,2025-12,Plant-Pune,North India,inverter fault E12,Inverter PCB,3677.0
+WC100162,2025-09-27,UPS 1kVA,UPS1K-2504-54529,2025-04,Plant-Pune,east,batery not charging,,3724.0
+WC100630,2025-09-27,UPS 10 KVA,UPS10K-2501-91354,2025-01,Plant-Chennai,SOUTH ,battery charger fault,,16724.0
+WC100289,2026-04-16,UPS 1kVA,UPS1K-2507-16314,2025-07,Plant-Chennai,north,bulged cap found,DC bus capacitor,3572.0
+WC100590,2026-01-26,UPS-10KVA,UPS10K-2506-72412,2025-06,Plant-Pune,W,fan noise and stopped,Cooling fan,44918.0
+WC100400,2026-07-17,UPS 1KVA,UPS1K-2604-16432,2026-04,Plant-Chennai,South India,battery charger fault,,3066.0
+WC100778,2026-07-18,surge protector,SPD40-2606-25381,2026-06,Plant-Pune,East,SPD module failed,SPD module,1276.0
+WC100576,2025-12-06,UPS 10kVA,UPS10K-2510-56684,2025-10,Plant-Pune,South India,not working,Display unit,24209.0
+WC100316,2026-07-23,UPS 1KVA,UPS1K-2606-07004,2026-06,Plant-Chennai,N,"capacitr leaking, unit tripped",DC bus capacitor,5575.0
+WC100231,2026-03-15,UPS 1kVA,UPS1K-2507-10397,2025-07,Plant-Pune,WEST,cooling fan failed,Cooling fan,3583.0
+WC100676,2025-08-19,UPS 10 KVA,UPS10K-2504-70013,2025-04,Plant-Chennai,west,panel display dead,Display unit,34995.0
+WC100077,2025-03-15,UPS-1KVA,UPS1K-2501-84293,2025-01,Plant-Pune,SOUTH ,bulged cap found,DC bus capacitor,2490.0
+WC100634,2025-09-02,UPS 10kVA,UPS10K-2507-62199,2025-07,Plant-Chennai,South India,capacitor leaking,DC bus capacitor,30274.0
+WC100795,2026-04-18,surge protector,SPD40-2602-55276,2026-02,Plant-Pune,West,spd status red,,1395.0
+WC100248,2026-03-10,ups 1 kva,UPS1K-2602-18122,2026-02,Plant-Pune,West India,batery not charging,Charger module,4171.0
+WC100477,02/03/2026,UPS 1KVA,UPS1K-2506-28596,,Plant-Chennai,west,inverter fault E12,,2330.0
+WC100671,2025-02-25,UPS 10 KVA,UPS10K-2501-39498,2025-01,Plant-Chennai,WEST,FAN FAILURE,Cooling fan,30455.0
+WC100086,2025-04-11,ups 1 kva,UPS1K-2503-01431,2025-03,Plant-Pune,south,battery not charging,Charger module,2929.0
+WC100470,2025-08-05,UPS-1KVA,UPS1K-2505-92294,2025-05,Plant-Chennai,West,unit dead,,5559.0
+WC100226,2025-11-11,ups 1 kva,UPS1K-2507-70040,2025-07,Plant-Pune,W,cooling fan failed,Cooling fan,3558.0
+WC100332,2025-04-17,ups 1 kva,UPS1K-2503-63875,2025-03,Plant-Chennai,SOUTH ,LCD not working,Display unit,454600.0
+WC100234,2025-11-01,UPS-1KVA,UPS1K-2510-94739,2025-10,Plant-Pune,west,display blank,Display unit,8295.0
+WC100589,2025-10-09,UPS-10KVA,UPS10K-2504-02743,2025-04,Plant-Pune,west,"output unstable, inverter pcb replaced",Inverter PCB,0.0
+WC100476,2026-02-10,UPS 1KVA,UPS1K-2506-84981,2025-06,Plant-Chennai,West India,unit dead,,5328.0
+WC100730,2025-05-20,Surge Protection Device,SPD40-2502-82121,2025-02,Plant-Pune,NORTH,unit not working,SPD module,1442.0
+WC100714,2025-04-20,LV SWGR panel,SWGLV-2503-78895,2025-03,Plant-Chennai,north,breaker nuisance trip,Breaker,53606.0
+WC100600,2026-09-08,UPS 10 KVA,UPS10K-2604-54362,2026-04,Plant-Pune,west,inverter fault E12,Inverter PCB,49811.0
+WC100422,2025-11-12,UPS 1kVA,UPS1K-2503-98092,2025-03,Plant-Chennai,E,DC bus capacitor bulged,DC bus capacitor,2254.0
+WC100183,2026-04-25,UPS 1kVA,UPS1K-2603-48052,2026-03,Plant-Pune,EAST,display blank,Display unit,3751.0
+WC100618,2026-03-09,UPS 10 KVA,UPS10K-2509-91682,2025-09,Plant-Chennai,N,bulged cap found,DC bus capacitor,17956.0
+WC100333,2025-07-23,ups 1 kva,UPS1K-2503-13804,2025-03,Plant-Chennai,South India,fan noise and stopped,Cooling fan,3962.0
+WC100439,2026-05-19,UPS 1kVA,UPS1K-2602-84357,2026-02,Plant-Chennai,East,batt not charging after 2 months,Charger module,3184.0
+WC100050,2026-05-26,UPS-1KVA,UPS1K-2601-75351,2026-01,Plant-Pune,NORTH,display blank,,10864.0
+WC100006,2025-03-19,UPS 1KVA,UPS1K-2502-00181,2025-02,Plant-Pune,NORTH,panel display dead,Display unit,4957.0
+WC100530,2026-08-16,UPS-1KVA,UPS1K-2603-94897,2026-03,Plant-Chennai,west,battery charger fault,Charger module,2518.0
+WC100235,2025-12-23,UPS 1kVA,UPS1K-2510-46315,2025-10,Plant-Pune,West India,fan noise and stopped,,2683.0
+WC100487,2025-10-09,UPS-1KVA,UPS1K-2508-14403,2025-08,Plant-Chennai,west,inverter fault E12,Inverter PCB,4430.0
+WC100739,2026-07-21,Surge Protection Device,SPD40-2508-16009,2025-08,Plant-Pune,north,spd status red,SPD module,1555.0
+WC100498,2026-07-24,UPS-1KVA,UPS1K-2509-69483,2025-09,Plant-Chennai,West India,inverter board fault,Inverter PCB,2952.0
+WC100736,2025-08-12,Surge Protection Device,SPD40-2506-23944,2025-06,Plant-Pune,north,spd status red,SPD module,1724.0
+WC100107,2025-09-05,UPS-1KVA,UPS1K-2507-50862,2025-07,Plant-Pune,South India,inverter board fault,Inverter PCB,2779.0
+WC100444,2026-06-12,ups 1 kva,UPS1K-2604-13636,2026-04,Plant-Chennai,E,inverter fault E12,,1471.0
+WC100489,2026-03-13,ups 1 kva,UPS1K-2508-95768,2025-08,Plant-Chennai,WEST,issue reported,,4201.0
+WC100647,2025-12-25,ups 10kva,UPS10K-2510-97675,2025-10,Plant-Chennai,SOUTH ,unit not working,,29340.0
+WC100013,2026-02-13,UPS 1KVA,UPS1K-2503-94032,2025-03,Plant-Pune,N,panel display dead,Display unit,6178.0
+WC100191,2026-07-18,UPS 1KVA,UPS1K-2605-83476,2026-05,Plant-Pune,East,not working,,2566.0
+WC100283,2025-07-12,ups 1 kva,UPS1K-2506-10197,2025-06,Plant-Chennai,North,battery charger fault,,2833.0
+WC100030,2025-12-24,UPS 1KVA,UPS1K-2509-71150,2025-09,Plant-Pune,N,bulged cap found,DC bus capacitor,3753.0
+WC100170,2025-09-22,UPS 1KVA,UPS1K-2508-48147,2025-08,Plant-Pune,east,battery not charging,,2889.0
+WC100181,2026-05-11,UPS 1kVA,UPS1K-2512-54832,2025-12,Plant-Pune,EAST,"output unstable, inverter pcb replaced",Inverter PCB,3329.0
+WC100101,2026-05-04,ups 1 kva,UPS1K-2505-30770,2025-05,Plant-Pune,south,no output,,3045.0
+WC100198,2025-10-01,ups 1 kva,UPS1K-2501-98503,2025-01,Plant-Pune,West,no o/p from ups,,3257.0
+WC100496,2026-05-17,UPS 1KVA,UPS1K-2509-74867,2025-09,Plant-Chennai,W,fan not running,,3719.0
+WC100648,2026-08-11,ups 10kva,UPS10K-2511-93373,2025-11,Plant-Chennai,South,cap failure on dc bus,DC bus capacitor,36913.0
+WC100799,2026-05-15,surge protector,SPD40-2604-18994,2026-04,Plant-Pune,WEST,indicator not working,,1470.0
+WC100762,2026-01-25,SPD 40kA,SPD40-2510-00262,2025-10,Plant-Pune,south,indicator window red,,1121.0
+WC100711,2026-07-20,ups 10kva,UPS10K-2606-35538,2026-06,Plant-Chennai,WEST,batt not charging after 2 months,Charger module,49964.0
+WC100374,2026-06-02,UPS 1kVA,UPS1K-2511-78798,2025-11,Plant-Chennai,SOUTH ,fan not running,Cooling fan,3584.0
+WC100679,2025-12-03,ups 10kva,UPS10K-2507-03124,2025-07,Plant-Chennai,WEST,inverter fault E12,Inverter PCB,19017.0
+WC100727,2025-11-08,Surge Protection Device,SPD40-2501-91023,2025-01,Plant-Pune,North India,spd status red,SPD module,716.0
+WC100649,2026-08-11,UPS 10 KVA,UPS10K-2602-39723,2026-02,Plant-Chennai,South India,no output,,21476.0
+WC100461,2025-07-24,UPS 1KVA,UPS1K-2503-74869,2025-03,Plant-Chennai,West India,no output,,2505.0
+WC100414,2025-04-20,UPS-1KVA,UPS1K-2501-82441,2025-01,Plant-Chennai,EAST,display blank,,4118.0
+WC100132,18/02/2026,UPS 1KVA,UPS1K-2512-50766,2025-12,Plant-Pune,south,battery charger fault,,2941.0
+WC100040,2026-01-02,UPS 1kVA,UPS1K-2511-14567,2025-11,Plant-Pune,north,batt not charging after 2 months,Charger module,2966.0
+WC100435,2026-02-14,UPS 1KVA,UPS1K-2509-98889,2025-09,Plant-Chennai,east,fan not running,,2459.0
+WC100216,2025-10-08,ups 1 kva,UPS1K-2506-30927,2025-06,Plant-Pune,west,display blank,Display unit,1931.0
+WC100556,2026-04-13,UPS 10 KVA,UPS10K-2510-97044,2025-10,Plant-Pune,N,batt not charging after 2 months,Charger module,30522.0
+WC100567,2025-06-12,UPS-10KVA,UPS10K-2503-32422,2025-03,Plant-Pune,South India,display error code,,35267.0
+WC100475,2025-10-08,ups 1 kva,UPS1K-2506-09033,2025-06,Plant-Chennai,West India,ups not giving output,,4369.0
+WC100457,2025-07-12,ups 1 kva,UPS1K-2502-73309,2025-02,Plant-Chennai,West,batery not charging,,5331.0
+WC100261,2026-06-02,UPS 1KVA,UPS1K-2605-45682,2026-05,Plant-Pune,West,customer complaint - fault,Display unit,3425.0
+WC100036,2026-02-09,UPS 1kVA,UPS1K-2510-59884,2025-10,Plant-Pune,North India,batt not charging after 2 months,Charger module,3330.0
+WC100310,2026-06-27,UPS-1KVA,UPS1K-2603-05402,2026-03,Plant-Chennai,NORTH,fan noise and stopped,,3674.0
+WC100277,2025-09-24,UPS-1KVA,UPS1K-2505-22115,2025-05,Plant-Chennai,NORTH,cap failure on dc bus,DC bus capacitor,4683.0
+WC100637,2025-10-20,UPS-10KVA,UPS10K-2508-74318,2025-08,Plant-Chennai,S,bulged cap found,,42858.0
+WC100655,2026-10-01,UPS 10 KVA,UPS10K-2605-38827,2026-05,Plant-Chennai,S,cooling fan failed,Cooling fan,33638.0
+WC100623,2026-04-19,ups 10kva,UPS10K-2601-42756,2026-01,Plant-Chennai,north,no o/p from ups,,33346.0
+WC100394,2026-08-05,UPS 1KVA,UPS1K-2603-08769,2026-03,Plant-Chennai,South India,cooling fan failed,,4591.0
+WC100108,2025-10-05,ups 1 kva,UPS1K-2507-31448,2025-07,Plant-Pune,South,cooling fan failed,Cooling fan,3889.0
+WC100776,2026-09-23,surge protector,SPD40-2603-77733,2026-03,Plant-Pune,east,issue reported,SPD module,2005.0
+WC100525,2026-05-08,UPS 1KVA,UPS1K-2601-16892,,Plant-Chennai,WEST,battery not charging,,3948.0
+WC100048,2026-04-12,ups 1 kva,UPS1K-2601-59141,2026-01,Plant-Pune,North,inverter card burnt,Inverter PCB,1178.0
+WC100204,2025-05-09,UPS-1KVA,UPS1K-2503-82259,2025-03,Plant-Pune,west,DC bus capacitor bulged,DC bus capacitor,3970.0
+WC100759,2025-12-16,SPD 40kA,SPD40-2508-86494,2025-08,Plant-Pune,SOUTH ,spd status red,,2435.0
+WC100632,2025-06-13,ups 10kva,UPS10K-2505-27651,2025-05,Plant-Chennai,SOUTH ,fan not running,Cooling fan,26144.0
+WC100022,2025-08-10,UPS 1kVA,UPS1K-2507-07636,2025-07,Plant-Pune,north,batt not charging after 2 months,,3247.0
+WC100403,01/06/2026,UPS-1KVA,UPS1K-2605-61449,2026-05,Plant-Chennai,south,no output - capacitor failed,DC bus capacitor,3688.0
+WC100084,2025-05-23,UPS-1KVA,UPS1K-2502-59857,2025-02,Plant-Pune,SOUTH ,issue reported,Cooling fan,1780.0
+WC100131,2026-02-18,UPS 1KVA,UPS1K-2512-04964,2025-12,Plant-Pune,SOUTH ,bulged cap found,DC bus capacitor,376100.0
+WC100416,2025-06-20,UPS-1KVA,UPS1K-2502-16626,2025-02,Plant-Chennai,East,panel display dead,Display unit,3176.0
+WC100742,25/01/2026,SPD 40kA,SPD40-2511-44602,2025-11,Plant-Pune,NORTH,SPD module failed,SPD module,1392.0
+WC100698,2026-01-15,UPS-10KVA,UPS10K-2511-08731,2025-11,Plant-Chennai,west,"capacitr leaking, unit tripped",DC bus capacitor,45969.0
+WC100287,2025-09-18,UPS 1kVA,UPS1K-2507-30605,2025-07,Plant-Chennai,North India,fan not running,Cooling fan,4835.0
+WC100124,2026-07-21,ups 1 kva,UPS1K-2509-10953,2025-09,Plant-Pune,South India,DC bus capacitor bulged,DC bus capacitor,4080.0
+WC100034,2025-12-23,UPS 1KVA,UPS1K-2510-89181,2025-10,Plant-Pune,north,fan not running,Cooling fan,2380.0
+WC100517,2026-04-15,ups 1 kva,UPS1K-2512-74128,2025-12,Plant-Chennai,West,capacitor leaking,DC bus capacitor,3827.0
+WC100020,2025-11-25,UPS 1KVA,UPS1K-2506-49293,2025-06,Plant-Pune,NORTH,"output unstable, inverter pcb replaced",Inverter PCB,2923.0
+WC100793,2026-07-01,Surge Protection Device,SPD40-2511-70455,2025-11,Plant-Pune,WEST,surge module blown,SPD module,1470.0
+WC100220,2026-05-02,UPS 1kVA,UPS1K-2506-95011,2025-06,Plant-Pune,West,not working,,3910.0
+WC100401,2026-09-23,UPS 1kVA,UPS1K-2604-61395,2026-04,Plant-Chennai,South India,battery charger fault,Charger module,6440.0
+WC100482,2026-04-23,UPS 1kVA,UPS1K-2507-71756,2025-07,Plant-Chennai,West,failed,,4308.0
+WC100357,2025-10-22,UPS 1KVA,UPS1K-2507-72605,2025-07,Plant-Chennai,South India,customer complaint - fault,,6046.0
+WC100662,2025-10-15,UPS-10KVA,UPS10K-2508-90885,2025-08,Plant-Chennai,E,capacitor leaking,DC bus capacitor,31142.0
+WC100225,2025-09-07,ups 1 kva,UPS1K-2507-19717,2025-07,Plant-Pune,West,DC bus capacitor bulged,DC bus capacitor,4649.0
+WC100760,2026-05-03,surge protector,SPD40-2508-51249,2025-08,Plant-Pune,S,SPD module failed,SPD module,1013.0
+WC100093,2025-11-27,UPS 1KVA,UPS1K-2504-99767,2025-04,Plant-Pune,south,battery not charging,,5323.0
+WC100152,2026-07-12,UPS 1kVA,UPS1K-2606-49746,2026-06,Plant-Pune,South,inverter card burnt,Inverter PCB,2796.0
+WC100705,2026-04-25,ups 10kva,UPS10K-2601-46433,2026-01,Plant-Chennai,west,no output - capacitor failed,DC bus capacitor,23343.0
+WC100318,2026-09-01,UPS 1kVA,UPS1K-2606-50053,2026-06,Plant-Chennai,N,cooling fan failed,,7016.0
+WC100449,2025-03-01,ups 1 kva,UPS1K-2501-27853,2025-01,Plant-Chennai,WEST,battery charger fault,Charger module,4912.0
+WC100746,2026-10-15,SPD 40kA,SPD40-2603-67987,2026-03,Plant-Pune,north,SPD module failed,,1955.0
+WC100523,2026-02-12,UPS-1KVA,UPS1K-2601-31400,2026-01,Plant-Chennai,West India,fan not running,,5300.0
+WC100280,2026-01-14,UPS-1KVA,UPS1K-2505-09483,2025-05,Plant-Chennai,North India,capacitor leaking,DC bus capacitor,1332.0
+WC100584,2025-03-07,ups 10kva,UPS10K-2501-31052,2025-01,Plant-Pune,West India,batery not charging,Charger module,37391.0
+WC100765,2026-02-24,SPD 40kA,SPD40-2601-51328,2026-01,Plant-Pune,South India,spd status red,SPD module,1198.0
+WC100605,2025-11-11,UPS 10kVA,UPS10K-2503-87755,2025-03,Plant-Chennai,NORTH,DC bus capacitor bulged,,35282.0
+WC100350,2025-09-18,UPS 1KVA,UPS1K-2506-42217,2025-06,Plant-Chennai,S,no o/p from ups,,2651.0
+WC100375,2026-01-01,ups 1 kva,UPS1K-2512-86621,2025-12,Plant-Chennai,South,no output - capacitor failed,,3359.0
+WC100401,2026-09-23,UPS 1kVA,UPS1K-2604-61395,2026-04,Plant-Chennai,South India,battery charger fault,Charger module,6440.0
+WC100705,2026-04-25,ups 10kva,UPS10K-2601-46433,2026-01,Plant-Chennai,west,no output - capacitor failed,DC bus capacitor,23343.0
+WC100258,2026-06-25,UPS 1KVA,UPS1K-2604-52872,2026-04,Plant-Pune,West,battery charger fault,Charger module,3672.0
+WC100073,2026-08-18,UPS 1KVA,UPS1K-2606-41727,2026-06,Plant-Pune,N,"output unstable, inverter pcb replaced",Inverter PCB,2673.0
+WC100196,2025-02-07,UPS 1kVA,UPS1K-2501-07414,2025-01,Plant-Pune,W,not working,,3027.0
+WC100484,2025-09-07,ups 1 kva,UPS1K-2508-18766,2025-08,Plant-Chennai,West India,battery charger fault,,4343.0
+WC100138,2026-06-22,UPS 1kVA,UPS1K-2602-06121,2026-02,Plant-Pune,south,display error code,,2199.0
+WC100495,2026-01-16,ups 1 kva,UPS1K-2509-31673,2025-09,Plant-Chennai,W,inverter fault E12,Inverter PCB,2936.0
+WC100773,2025-11-27,SPD 40kA,SPD40-2510-71443,2025-10,Plant-Pune,east,failed,Indicator,960.0
+WC100551,2025-07-12,UPS 10kVA,UPS10K-2506-16605,2025-06,Plant-Pune,North,not working,Inverter PCB,15602.0
+WC100463,2025-12-12,UPS-1KVA,UPS1K-2503-63420,2025-03,Plant-Chennai,WEST,batery not charging,Charger module,3026.0
+WC100202,2025-09-26,ups 1 kva,UPS1K-2502-55070,2025-02,Plant-Pune,WEST,fan not running,,7639.0
+WC100313,2026-10-08,UPS-1KVA,UPS1K-2604-97825,,Plant-Chennai,NORTH,battery not charging,,4265.0
+WC100291,2025-12-01,ups 1 kva,UPS1K-2508-12565,2025-08,Plant-Chennai,N,not working,,1503.0
+WC100190,2026-06-22,UPS-1KVA,UPS1K-2605-27575,2026-05,Plant-Pune,East India,battery not charging,Charger module,4242.0
+WC100764,2026-01-21,surge protector,SPD40-2512-26659,2025-12,,S,SPD module failed,SPD module,2096.0
+WC100113,2026-02-17,ups 1 kva,UPS1K-2507-73632,2025-07,Plant-Pune,South,no o/p from ups,,3801.0
+WC100184,2026-05-25,UPS 1kVA,UPS1K-2603-69619,2026-03,Plant-Pune,East India,fan noise and stopped,,5016.0
+WC100153,2025-04-13,UPS-1KVA,UPS1K-2501-36381,2025-01,Plant-Pune,E,batt not charging after 2 months,Charger module,2277.0
+WC100326,2025-03-22,ups 1 kva,UPS1K-2502-01871,2025-02,Plant-Chennai,south,battery not charging,,3514.0
+WC100704,2026-07-16,UPS-10KVA,UPS10K-2512-16177,2025-12,Plant-Chennai,West India,inverter card burnt,Inverter PCB,22190.0
+WC100045,2026-04-04,UPS 1kVA,UPS1K-2512-96137,2025-12,Plant-Pune,north,not working,Cooling fan,1811.0
+WC100445,2026-08-03,ups 1 kva,UPS1K-2604-37921,2026-04,Plant-Chennai,East,customer complaint - fault,,4480.0
+WC100788,2025-12-14,SPD-40,SPD40-2507-88812,2025-07,Plant-Pune,west,indicator window red,,1192.0
+WC100007,2025-07-19,UPS 1KVA,UPS1K-2502-19021,2025-02,Plant-Pune,NORTH,fan noise and stopped,Cooling fan,2543.0
+WC100251,2026-07-10,UPS-1KVA,UPS1K-2602-44863,2026-02,Plant-Pune,WEST,battery charger fault,Charger module,1888.0
+WC100076,2025-02-26,UPS 1KVA,UPS1K-2501-27257,2025-01,Plant-Pune,South India,display blank,Display unit,2432.0
+WC100513,2026-01-07,UPS 1KVA,UPS1K-2512-81499,2025-12,Plant-Chennai,West,capacitor leaking,DC bus capacitor,4909.0
+WC100392,2026-05-10,UPS-1KVA,UPS1K-2603-28885,2026-03,Plant-Chennai,S,FAN FAILURE,,3536.0
+WC100433,2026-01-24,UPS 1kVA,UPS1K-2509-13782,2025-09,Plant-Chennai,E,no o/p from ups,,3485.0
+WC100069,2026-07-13,ups 1 kva,UPS1K-2606-80984,2026-06,Plant-Pune,NORTH,DC bus capacitor bulged,DC bus capacitor,3714.0
+WC100168,2025-11-12,UPS 1kVA,UPS1K-2507-79984,2025-07,Plant-Pune,East India,failed,Display unit,-2698.0
+WC100731,2025-06-24,surge protector,SPD40-2504-41645,2025-04,Plant-Pune,north,spd status red,SPD module,1775.0
+WC100555,2026-06-09,UPS 10 KVA,UPS10K-2509-09915,2025-09,Plant-Pune,North India,not working,Cooling fan,14646.0
+WC100367,2026-03-19,ups 1 kva,UPS1K-2509-93903,2025-09,Plant-Chennai,South India,fan noise and stopped,Cooling fan,2948.0
+WC100346,2025-11-02,UPS 1KVA,UPS1K-2505-09537,,Plant-Chennai,south,display blank,Display unit,1975.0
+WC100585,2025-06-24,UPS 10kVA,UPS10K-2502-07407,2025-02,Plant-Pune,WEST,no output - capacitor failed,,43697.0
+WC100536,2026-09-03,ups 1 kva,UPS1K-2604-23970,2026-04,Plant-Chennai,West,cooling fan failed,Cooling fan,3110.0
+WC100399,2026-07-25,UPS-1KVA,UPS1K-2604-20275,2026-04,Plant-Chennai,S,battery not charging,,2769.0
+WC100186,2026-06-18,UPS 1KVA,UPS1K-2603-70107,2026-03,,E,panel display dead,Display unit,2724.0
+WC100349,2025-07-10,ups 1 kva,UPS1K-2506-74592,2025-06,Plant-Chennai,South,unit dead,,2254.0
+WC100616,2026-02-21,UPS-10KVA,UPS10K-2509-19073,2025-09,Plant-Chennai,North India,failed,DC bus capacitor,34982.0
+WC100212,2025-12-02,ups 1 kva,UPS1K-2504-09890,2025-04,Plant-Pune,W,failed,Charger module,5729.0
+WC100580,2026-04-08,ups 10kva,UPS10K-2512-07257,2025-12,Plant-Pune,East,batery not charging,Charger module,26143.0
+WC100503,16/11/2025,UPS 1KVA,UPS1K-2510-17973,2025-10,Plant-Chennai,West India,unit dead,,5141.0
+WC100538,2026-06-10,UPS 1KVA,UPS1K-2605-35690,2026-05,Plant-Chennai,WEST,battery not charging,Charger module,3445.0
+WC100197,2025-03-24,UPS 1kVA,UPS1K-2501-08800,2025-01,Plant-Pune,West India,inverter fault E12,,3803.0
+WC100176,2025-12-16,UPS 1kVA,UPS1K-2511-06226,2025-11,Plant-Pune,EAST,battery not charging,Charger module,5614.0
